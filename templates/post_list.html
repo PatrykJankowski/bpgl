@@ -3,14 +3,6 @@
 
 {% block content %}
 
-    <div class="buttons">
-        <div class="row">
-            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/aktualnosci.png' %}"/><div>Aktualności</div></a></div>
-            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/nowosci.png' %}"/><div>Nowości książkowe</div></a></div>
-            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/katalogi.png' %}"/><div>Katalogi</div></a></div>
-        </div>
-    </div>
-
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
@@ -40,14 +32,18 @@
           </div>
         </div>
       </div>
+    </div>
 
-      <!-- Controls -->
-      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-      </a>
-      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-      </a>
+    <div class="buttons">
+        <div class="row">
+            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/aktualnosci.png' %}"/><div>Aktualności</div></a></div>
+            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/nowosci.png' %}"/><div>Nowości książkowe</div></a></div>
+            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/katalogi.png' %}"/><div>Katalogi</div></a></div>
+        </div>
+    <div class="row">
+        Godziny otwarcia: pon. - pt, 9:00 - 17:00<br>
+        Kontakt: strzepcz@bpgl.pl, linia@bpgl.pl
+    </div>
     </div>
 
     <div class="container">

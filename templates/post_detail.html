@@ -16,13 +16,11 @@
     <div class="container">
     <div class="row">
     <div class="col-md-12 instance">
+
+	{% load thumbnail %}
         {% if instance.image %}
-
-            {% load thumbnail %}
-
-                <img src="{{ instance.image.url }}">
-            
-
+            {% thumbnail instance.image 1140x500 upscale as thumb %}
+            <img src="{{ thumb.url }}">
         {% endif %}
 
         <h2>{{ instance.title }} | {{ instance.category }}</h2>

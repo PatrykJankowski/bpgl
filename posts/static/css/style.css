@@ -6,6 +6,17 @@ body {
     font-size: 13px;
     line-height: 24px;
 }
+
+body > .container {
+    position: relative;
+    top: -180px;
+}
+
+.instance > img {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
 .starter-template {
     padding: 40px 15px;
     text-align: center;
@@ -13,6 +24,11 @@ body {
 
 a:hover, a:focus {
     color: #CC8200;
+}
+
+.btn {
+    color: #CC8200;
+    font-size: 13px;
 }
 
 nav {
@@ -128,6 +144,8 @@ h3 a {
 
 .instance {
     background: #fff;
+    top: 180px;
+    padding-bottom: 30px;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {

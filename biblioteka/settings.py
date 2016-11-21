@@ -26,7 +26,7 @@ SECRET_KEY = '&mt!w_-38o$n07*^w=l=j00f44dxje32c*ie#*e9-ijm9or9ct'
 DEBUG = True
 #TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -87,8 +87,15 @@ WSGI_APPLICATION = 'biblioteka.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        #'ENGINE': 'django.db.backends.sqlite3',
+        #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
+        'NAME': 'bpgl', # Or path to database file if using sqlite3.
+        # The following settings are not used with sqlite3:
+        'USER': 'bpgl',
+        'PASSWORD': 'Krasnal1',
+        'HOST': 'localhost', # Empty for localhost through domain sockets or           '127.0.0.1' for localhost through TCP.
+        'PORT': '',             # Set 
     }
 }
 
@@ -139,9 +146,9 @@ STATICFILES_DIRS = [
     #'/var/www/static/',
 ]
 
-STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
+STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "biblioteka/static_cdn")
 MEDIA_URL = "/media/"
-MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "media_cdn")
+MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "biblioteka/media_cdn")
 
 SUMMERNOTE_CONFIG = {
 

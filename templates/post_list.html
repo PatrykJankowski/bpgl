@@ -125,26 +125,26 @@
         <input type='submit' value='Search' />
     </form>
 
-              {% for post in posts %}
+              {% for book in books %}
                       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
 
                           {% load thumbnail %}
-                          {% thumbnail post.image 400x400 upscale as thumb %}
-                            {% if post.image %}
+                          {% thumbnail book.image 400x400 upscale as thumb %}
+                            {% if book.image %}
                                 <img src='{{ thumb.url }}' class='img-responsive' style="max-height: 200px; width: 100%" />
-                                <div class="date">{{ post.category }} | {{ post.published }}</div>
+                                <div class="date">{{ book.category }} | {{ book.published }}</div>
                             {% endif %}
 
                         <div class="text">
-                            <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
-                            {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|linebreaksbr|truncatechars:120 }}</p>
+                            <h3><a href="{{ book.get_absolute_url }}">{{ book.title }}</a></h3>
+                            {% if book.image %}
+                                <p style="text-align: justify">{{ book.text|safe|linebreaksbr|truncatechars:120 }}</p>
                             {% else %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:420 }}</p>
+                                <p style="text-align: justify">{{ book.text|safe|truncatechars:420 }}</p>
                             {% endif %}
 
-                            <p><a class="btn btn-secondary" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
+                            <p><a class="btn btn-secondary" href="{{ book.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
                       </div>
                       </div>
                       </div>

@@ -88,7 +88,7 @@ def post_delete(request, slug):
 
 
 def book_list(request):
-    books = Post.objects.filter(category__title__icontains="Aktualności")
+    books = Post.objects.filter(category__title__icontains="Książki")
 
     query = request.GET.get("q")
 

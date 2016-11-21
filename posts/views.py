@@ -88,7 +88,7 @@ def post_delete(request, slug):
 
 
 def book_list(request):
-    books = Post.objects.filter(category__title__icontains="si")
+    books = Post.objects.filter(category__title__icontains="książki")
 
     #query = request.GET.get("q")
 
@@ -107,4 +107,4 @@ def book_list(request):
         # If page is out of range (e.g. 9999), deliver last page of results.
         books = paginator.page(paginator.num_pages)
 
-    return render(request, 'books.html', {'books': books})
+    return render(request, 'post_list.html', {'books': books})

@@ -88,23 +88,23 @@ def post_delete(request, slug):
 
 
 def book_list(request):
-    books = Post.objects.filter(category__title__icontains="Aktualności")
+    posts = Post.objects.filter(category__title__icontains="Książki")
 
     query = request.GET.get("q")
 
     if query:
-        books = books.filter(category__title__icontains=query)
+        posts = posts.filter(category__title__icontains=query)
 
-    paginator = Paginator(books, 12)  # Show 25 contacts per page
+    paginator = Paginator(posts, 12)  # Show 25 contacts per page
     page = request.GET.get('page')
 
     try:
-        books = paginator.page(page)
+        posts = paginator.page(page)
     except PageNotAnInteger:
         # If page is not an integer, deliver first page.
-        books = paginator.page(1)
+        posts = paginator.page(1)
     except EmptyPage:
         # If page is out of range (e.g. 9999), deliver last page of results.
-        books = paginator.page(paginator.num_pages)
+        posts = paginator.page(paginator.num_pages)
 
-    return render(request, 'books.html', {'books': books})
+    return render(request, 'books.html', {'posts': posts})

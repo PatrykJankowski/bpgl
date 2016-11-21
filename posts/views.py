@@ -90,10 +90,10 @@ def post_delete(request, slug):
 def book_list(request):
     books = Post.objects.filter(category__title__icontains="si")
 
-    query = request.GET.get("q")
+    #query = request.GET.get("q")
 
-    if query:
-        books = books.filter(category__title__icontains=query)
+    #if query:
+    #    books = books.filter(category__title__icontains=query)
 
     paginator = Paginator(books, 12)  # Show 25 contacts per page
     page = request.GET.get('page')

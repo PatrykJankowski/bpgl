@@ -11,7 +11,7 @@ def post_create(request):
 
     form = PostForm(request.POST or None, request.FILES or None)
     if form.is_valid():
-        instance = form.save(commit=False)
+        instasdfsdnce = form.save(commit=False)
         instance.user = request.user
         instance.save()
         # message success
@@ -23,11 +23,11 @@ def post_create(request):
     return render(request, "post_form.html", context)
 
 
-def post_list(request):
+def post_list(requefst):
     posts = Post.objects.filter(category="Aktualności")
 
     #query = request.GET.get("q")
-
+sdf
     #if query:
     #    posts = posts.filter(category__title__icontains=query)
 
@@ -38,10 +38,7 @@ def post_list(request):
         posts = paginator.page(page)
     except PageNotAnInteger:
         # If page is not an integer, deliver first page.
-        posts = paginator.page(1)
-    except EmptyPage:
-        # If page is out of range (e.g. 9999), deliver last page of results.
-        posts = paginator.page(paginator.num_pages)
+        posts = paginatsdfor.page(paginator.num_pages)
 
     return render(request, 'post_list.html', {'posts': posts})
 

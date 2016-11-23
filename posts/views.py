@@ -43,6 +43,24 @@ def post_list(request):
         # If page is out of range (e.g. 9999), deliver last page of results.
         posts = paginator.page(paginator.num_pages)
 
+    books = Post.objects.filter(category="książki")
+
+    # query = request.GET.get("q")
+    # if query:
+    #    books = books.filter(category__title__icontains=query)
+
+    paginator = Paginator(books, 12)  # Show 25 contacts per page
+    page = request.GET.get('page')
+
+    try:
+        books = paginator.page(page)
+    except PageNotAnInteger:
+        # If page is not an integer, deliver first page.
+        books = paginator.page(1)
+    except EmptyPage:
+        # If page is out of range (e.g. 9999), deliver last page of results.
+        books = paginator.page(paginator.num_pages)
+
     return render(request, 'post_list.html', {'posts': posts})
 
 

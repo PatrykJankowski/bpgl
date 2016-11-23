@@ -91,7 +91,6 @@ def book_list(request):
     books = Post.objects.filter(category__title__icontains="książki")
 
     #query = request.GET.get("q")
-
     #if query:
     #    books = books.filter(category__title__icontains=query)
 

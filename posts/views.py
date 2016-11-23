@@ -26,10 +26,10 @@ def post_create(request):
 def post_list(request):
     posts = Post.objects.filter(category="Aktualności")
 
-    query = request.GET.get("q")
+    #query = request.GET.get("q")
 
-    if query:
-        posts = posts.filter(category__title__icontains=query)
+    #if query:
+    #    posts = posts.filter(category__title__icontains=query)
 
     paginator = Paginator(posts, 12)  # Show 25 contacts per page
     page = request.GET.get('page')

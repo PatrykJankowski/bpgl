@@ -24,7 +24,7 @@ def post_create(request):
 
 
 def post_list(request):
-    posts = Post.objects.all()
+    posts = Post.objects.filter(category="Aktualności")
 
     query = request.GET.get("q")
 
@@ -88,7 +88,7 @@ def post_delete(request, slug):
 
 
 def book_list(request):
-    books = Post.objects.filter(category__title__icontains="książki")
+    books = Post.objects.filter(category="książki")
 
     #query = request.GET.get("q")
     #if query:

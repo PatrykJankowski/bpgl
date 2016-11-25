@@ -24,8 +24,8 @@ def post_create(request):
 
 
 def post_list(request):
-    posts = Post.objects.all()
-
+    posts = Post.objects.filter(category__title__icontains="Aktualności")
+    books = Post.objects.filter(category__title__icontains="Książki")
     query = request.GET.get("q")
 
     if query:
@@ -43,7 +43,7 @@ def post_list(request):
         # If page is out of range (e.g. 9999), deliver last page of results.
         posts = paginator.page(paginator.num_pages)
 
-    return render(request, 'post_list.html', {'posts': posts})
+    return render(request, 'post_list.html', {'posts': posts, 'books': books})
 
 
 def post_detail(request, slug):
@@ -88,23 +88,23 @@ def post_delete(request, slug):
 
 
 def book_list(request):
-    posts = Post.objects.filter(category__title__icontains="Aktualności")
+    books = Post.objects.filter(category__title__icontains="Aktualności")
 
     query = request.GET.get("q")
 
     if query:
-        posts = posts.filter(category__title__icontains=query)
+        books = books.filter(category__title__icontains=query)
 
-    paginator = Paginator(posts, 12)  # Show 25 contacts per page
+    paginator = Paginator(books, 12)  # Show 25 contacts per page
     page = request.GET.get('page')
 
     try:
-        posts = paginator.page(page)
+        books = paginator.page(page)
     except PageNotAnInteger:
         # If page is not an integer, deliver first page.
-        posts = paginator.page(1)
+        books = paginator.page(1)
     except EmptyPage:
         # If page is out of range (e.g. 9999), deliver last page of results.
-        posts = paginator.page(paginator.num_pages)
+        books = paginator.page(paginator.num_pages)
 
-    return render(request, 'books.html', {'posts': posts})
+    return render(request, 'books.html', {'books': books})

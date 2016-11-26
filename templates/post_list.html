@@ -171,7 +171,7 @@ $("#navbar a").on('click', function(event) {
                             {% if post.image %}
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:120 }}</p>
                             {% else %}
-                                <hr>
+
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
                             {% endif %}
 
@@ -196,8 +196,8 @@ $("#navbar a").on('click', function(event) {
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
-              {% for post in books %}
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+              {% for post in library %}
+                      <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
 
                           {% load thumbnail %}
@@ -214,10 +214,10 @@ $("#navbar a").on('click', function(event) {
                         <div class="text">
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:120 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe }}</p>
                             {% else %}
                                 <hr>
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe }}</p>
                             {% endif %}
 
                             <p><a class="btn" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>

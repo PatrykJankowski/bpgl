@@ -26,6 +26,7 @@ def post_create(request):
 def post_list(request):
     posts = Post.objects.filter(category__title__icontains="Aktualności")
     books = Post.objects.filter(category__title__icontains="Książki")
+    library = Post.objects.filter(category__title__icontains="O bibliotece")
     query = request.GET.get("q")
 
     if query:
@@ -43,7 +44,7 @@ def post_list(request):
         # If page is out of range (e.g. 9999), deliver last page of results.
         posts = paginator.page(paginator.num_pages)
 
-    return render(request, 'post_list.html', {'posts': posts, 'books': books})
+    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library})
 
 
 def post_detail(request, slug):

@@ -104,14 +104,13 @@ h2::after {
     margin-bottom: 25px;
 }
 
-.biblioteka, #galeria {
+.biblioteka, #galeria, #wsparcie {
     background-color: #fff;
     padding: 25px;
 }
 
 #wsparcie img {
-    max-width: 200px;
-    margin: 25px;
+    max-height: 80px;
 }
 
 .biblioteka img {

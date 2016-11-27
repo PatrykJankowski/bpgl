@@ -152,7 +152,7 @@ $("#navbar a").on('click', function(event) {
 
 
               {% for post in books %}
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
                       <div class="post">
 
                           {% load thumbnail %}
@@ -178,7 +178,6 @@ $("#navbar a").on('click', function(event) {
                             <p><a class="btn" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
                       </div>
                       </div>
-                      <hr>
                       </div>
             {% endfor %}
 
@@ -197,7 +196,7 @@ $("#navbar a").on('click', function(event) {
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
               {% for post in library %}
-                      <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12">
+                      <div class="col-lg-12">
                       <div class="biblioteka">
 
                           {% load thumbnail %}
@@ -241,6 +240,28 @@ $("#navbar a").on('click', function(event) {
         </div>
         <div class="col-md-4">
              <img class="img-responsive" src="media/9/Greatcoat-of-the-British-Army.jpg.500x500_q85_upscale.jpg" />
+        </div>
+
+
+
+    </div><!--/span-->
+
+    </section>
+
+    <section id="wsparcie">
+        <h3>Działalność biblioteki wspierana jest przez:</h3>
+    <div class="row">
+
+              <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
+
+        <div class="col-md-4">
+            <img class="" src="{% static 'img/biblioteka_narodowa.jpg' %}" />
+        </div>
+        <div class="col-md-4">
+             <img class="" src="{% static 'img/program_rozwoju_czytelnictwa.jpg' %}" />
+        </div>
+        <div class="col-md-4">
+             <img class="" src="{% static 'img/fun.jpg' %}" />
         </div>
 
 

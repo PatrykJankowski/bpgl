@@ -198,23 +198,17 @@ $("#navbar a").on('click', function(event) {
 
               {% for post in library %}
                       <div class="col-lg-12 col-md-4 col-sm-6 col-xs-12">
-                      <div class="post">
+                      <div class="biblioteka">
 
                           {% load thumbnail %}
-                          {% thumbnail post.image 720x720 upscale as thumb %}
-                            {% if post.image %}
-                                <div style="width: 100%; max-height: 200px; overflow-y: hidden;">
+                          {% thumbnail post.image 500x500 upscale as thumb %}
+                                <div class="pull-left" style="overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
-                                <div class="date">{{ post.category }} | {{ post.published|date:"d M. Y"|lower }}</div>
-                            {% else %}
-                                <div class="date2">{{ post.category }} | {{ post.published|date:"d M. Y"|lower }}</div>
-                            {% endif %}
 
 
                         <div class="text">
-                            <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:820 }}</p>
                             {% else %}
                                 <hr>
                                 <p style="text-align: justify">{{ post.text|safe }}</p>
@@ -223,7 +217,6 @@ $("#navbar a").on('click', function(event) {
                             <p><a class="btn" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
                       </div>
                       </div>
-                      <hr>
                       </div>
             {% endfor %}
 
@@ -232,9 +225,34 @@ $("#navbar a").on('click', function(event) {
 
             </div><!--/span-->
 
-</section>
+    </section>
+
+    <section id="galeria">
+        <h3>Zobacz naszą galerię</h3>
+    <div class="row">
+
+              <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
+
+        <div class="col-md-4">
+            <img class="img-responsive" src="media/9/Greatcoat-of-the-British-Army.jpg.500x500_q85_upscale.jpg" />
+        </div>
+<div class="col-md-4">
+             <img class="img-responsive" src="media/9/Greatcoat-of-the-British-Army.jpg.500x500_q85_upscale.jpg" />
+        </div>
+        <div class="col-md-4">
+             <img class="img-responsive" src="media/9/Greatcoat-of-the-British-Army.jpg.500x500_q85_upscale.jpg" />
+        </div>
+
+
+
+    </div><!--/span-->
+
+    </section>
 
 </div>
+
+
+
 {% endblock content %}
 
 

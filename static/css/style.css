@@ -7,11 +7,6 @@ body {
     line-height: 24px;
 }
 
-body > .container {
-    position: relative;
-    top: -180px;
-}
-
 .instance > img {
     display: block;
     margin: 0 auto 20px auto;
@@ -57,11 +52,16 @@ nav {
     text-transform: uppercase;
 }
 
+.navbar img {
+    height: 100%;
+    padding: 4px;
+}
+
 .buttons {
-    position: relative;
-    top: -300px;
+    position: absolute;
     z-index: 1;
     color: #fff;
+    top: 10px;
 }
 
 .buttons .row {
@@ -83,7 +83,7 @@ h2 {
     margin: 0 0 30px;
     padding: 0 0 7px;
     position: relative;
-    font-size: 30px;
+    font-size: 24px;
     color: #333;
 }
 
@@ -104,13 +104,16 @@ h2::after {
     margin-bottom: 25px;
 }
 
+#aktualnosci {
+    margin-top: 25px;
+}
 .biblioteka, #galeria, #wsparcie {
     background-color: #fff;
     padding: 25px;
 }
 
 #wsparcie {
-    margin-top: 25px;
+    margin: 25px 0;
 }
 
 #wsparcie img {

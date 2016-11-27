@@ -46,6 +46,7 @@ class Post(models.Model):
         ordering = ["-published"]
 
 
+
 class Category(models.Model):
     title = models.CharField(max_length=120)
     slug = models.SlugField(unique=True)

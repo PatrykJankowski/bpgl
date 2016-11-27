@@ -32,7 +32,7 @@ def post_list(request):
     if query:
         posts = posts.filter(category__title__icontains=query)
 
-    paginator = Paginator(posts, 12)  # Show 25 contacts per page
+    paginator = Paginator(posts, 4)  # Show 25 contacts per page
     page = request.GET.get('page')
 
     try:

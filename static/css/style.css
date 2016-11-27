@@ -109,6 +109,10 @@ h2::after {
     padding: 25px;
 }
 
+#wsparcie {
+    margin-top: 25px;
+}
+
 #wsparcie img {
     max-height: 80px;
 }

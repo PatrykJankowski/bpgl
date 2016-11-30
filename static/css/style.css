@@ -164,8 +164,12 @@ h3 a {
 
 .instance {
     background: #fff;
-    top: 180px;
-    padding-bottom: 30px;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.instance h2 {
+    margin: 20px 0 0 0;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {

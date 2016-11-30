@@ -30,6 +30,7 @@ class Post(models.Model):
     text = models.TextField()
     published = models.DateTimeField(blank=True, null=True)
     updated = models.DateTimeField(auto_now=True, auto_now_add=False)
+    tag = models.ManyToManyField('posts.Tag')
     category = models.ForeignKey('posts.Category')
 
     #def publish(self):
@@ -46,7 +47,6 @@ class Post(models.Model):
         ordering = ["-published"]
 
 
-
 class Category(models.Model):
     title = models.CharField(max_length=120)
     slug = models.SlugField(unique=True)
@@ -56,6 +56,17 @@ class Category(models.Model):
 
     def get_absolute_url(self):
         return reverse("posts:category", kwargs={"slug": self.slug})
+
+
+class Tag(models.Model):
+    title = models.CharField(max_length=120)
+    slug = models.SlugField(unique=True)
+
+    def __str__(self):
+        return self.title
+
+    def get_absolute_url(self):
+        return reverse("posts:tag", kwargs={"slug": self.slug})
 
 
 def create_slug(instance, new_slug=None):

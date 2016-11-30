@@ -4,27 +4,13 @@
 
     <div class="container">
 
-    <form method='GET' action=''>
-
-         <select value='s' name="q">
-
-             <option value=''>wszystkie</option>
-             <option value='kategoria'>kategoria</option>
-             <option value='inna'>inna</option>
-
-         </select>
-
-        <!-- <input type='text' name='q' placeholder='Search posts' value='{{ request.GET.q }}'/> -->
-        <input type='submit' value='Search' />
-    </form>
-
 
           <div class="row">
 
           <h2>Nowości książkowe</h2>
 
-              {% for post in posts %}
-                      <div class="col-md-4 col-sm-6">
+              {% for post in list %}
+                      <div class="col-md-3">
                       <div class="post">
 
                           {% load thumbnail %}

@@ -13,29 +13,60 @@
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
 
-    <div class="container">
-    <div class="row">
-    <div class="col-md-12 instance">
+    <div class="container instance">
+        <div class="row">
+            <div class="col-md-12 ">
+                {% load thumbnail %}
+                    {% if instance.image %}
+                        {% thumbnail instance.image 1140x500 upscale as thumb %}
+                        <img class="center-block" src="{{ thumb.url }}">
+                {% endif %}
+            <div class="row">
+                <h2>{{ instance.title }}</h2>
+                <div class="date2">{{ instance.category }} | {{ instance.published }}</div>
 
-	{% load thumbnail %}
-        {% if instance.image %}
-            {% thumbnail instance.image 1140x500 upscale as thumb %}
-            <img src="{{ thumb.url }}">
-        {% endif %}
+                <div class="fb-like" data-href="{{ request.build_absolute_uri }}" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+            </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+            <div class="col-md-9">
 
-        <h2>{{ instance.title }} | {{ instance.category }}</h2>
-        <div class="date">{{ instance.published }}</div>
+                <p>{{ instance.text|safe|linebreaksbr }}</p>
 
-        <div class="fb-like" data-href="{{ request.build_absolute_uri }}" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+                <div id="fb-root"></div>
 
-        <p>{{ instance.text|safe|linebreaksbr }}</p>
+                <!-- Your embedded comments code -->
+                <div class="fb-comments" data-href="{{ request.build_absolute_uri }}" data-numposts="5"></div>
+            </div>
 
-        <div id="fb-root"></div>
 
-        <!-- Your embedded comments code -->
-        <div class="fb-comments" data-href="{{ request.build_absolute_uri }}" data-numposts="5"></div>
-    </div>
-    </div>
-    </div>
+
+        <div class="col-md-3">
+        <h3>Powiązane z:</h3>
+        <div class="tags">
+            {% for tag in instance.tag.all %}
+
+                <a href="/list/?tag={{tag}}" class="tag">{{tag}}</a>
+
+                {% if not forloop.last %},{% else %} and {% endif %}
+            {% endfor %}
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+
+    <!-- LISTA NAKNOWSZYCH, PODOBNYCH POSTOW SPRAWDZ KATEGORIE -->
+
+            <script>
+                $(document).ready(function(){
+                    console.log($(".tag").text());
+                   if ($(".tag").text() == "dla dzieci") {
+                     $(".tag").css('color', 'red');
+                   }
+                 });
+            </script>
 
 {% endblock %}

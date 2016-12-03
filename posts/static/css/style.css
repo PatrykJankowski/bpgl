@@ -26,9 +26,22 @@ a:hover, a:focus {
     font-size: 13px;
 }
 
+#nav-top.test {
+    opacity: 0;
+    height: 0px;
+}
+
+#nav-top {
+    background: #333333;
+    height: 40px;
+    transition: all 0.2s linear;
+    display: block;
+}
+
 nav {
     background: #FFF;
     box-shadow: 0 0 4px rgba(0,0,0,0.5);
+    transition: all 0.3s linear;
 }
 
 .navbar-brand {
@@ -50,6 +63,7 @@ nav {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
+    display: inline-block;
 }
 
 .navbar img {
@@ -178,6 +192,10 @@ h3 a {
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
     background-color: #fff;
     color: #CC8200;
+}
+
+.thumbnail {
+    display: inline-block;
 }
 
 footer {

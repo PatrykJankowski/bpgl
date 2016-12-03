@@ -1,7 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="" />
+    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/INSTALLER" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive_day.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive_month.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive_year.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive_day.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive_month.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive_year.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/root.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/tags/next_in_gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/tags/prev_in_gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ca/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ca/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/cs/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/cs/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da_DK/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da_DK/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/de/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/de/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en_US/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en_US/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/es_ES/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/es_ES/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/eu/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/eu/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/fr/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/fr/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/hu/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/hu/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/it/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/it/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/nl/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/nl/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/no/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/no/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pl/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pl/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt_BR/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt_BR/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ru/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ru/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/sk/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/sk/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/tr/LC_MESSAGES/django.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/tr/LC_MESSAGES/django.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/plcache.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/plcreatesize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/plflush.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/managers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0002_photosize_data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0003_auto_20140822_1716.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0004_auto_20140915_1259.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0005_auto_20141027_1552.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0006_auto_20141028_2005.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0007_auto_20150404_1737.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0008_auto_20150509_1557.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0009_auto_20160102_0904.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0010_auto_20160105_1307.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/sample.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_nonsense.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_&amp;quoting.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_landscape.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_portrait.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_square.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/zips/ignored_files.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/zips/not_image.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/zips/sample.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/sitemaps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/admin/photologue/photo/change_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/admin/photologue/photo/upload_zip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive_day.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive_month.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive_year.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/includes/gallery_sample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/includes/paginator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive_day.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive_month.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive_year.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/root.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/tags/next_in_gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/tags/prev_in_gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templatetags/photologue_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/factories.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_effect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_gallery.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_photo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_photosize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_resize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_sitemap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_sites.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_views_gallery.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_views_photo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_zipupload.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/utils/reflection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/utils/watermark.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/photologue/photos/cache/CACHEDIR.TAG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/biblioteka.iml" afterPath="$PROJECT_DIR$/.idea/biblioteka.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblioteka/urls.py" afterPath="$PROJECT_DIR$/biblioteka/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/list.html" afterPath="$PROJECT_DIR$/templates/list.html" />
+    </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,35 +168,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3315">
-              <caret line="195" column="10" lean-forward="true" selection-start-line="151" selection-start-column="4" selection-end-line="195" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/post_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,8 +191,28 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="95" column="14" lean-forward="true" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+            <state relative-caret-position="289">
+              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -70,52 +221,30 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="172" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="83" column="25" lean-forward="false" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="671">
+              <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <marker date="1480801284570" expanded="true" signature="2405:2408" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+            <state relative-caret-position="255">
+              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photo_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -125,7 +254,17 @@
         <entry file="file://$PROJECT_DIR$/templates/list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="35" column="30" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="35" selection-end-column="30" />
+              <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery_archive.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -158,9 +297,9 @@
       <find>cate</find>
       <find>q</find>
       <find>categ</find>
-      <find>query</find>
       <find>ins</find>
       <find>after</find>
+      <find>query</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -182,19 +321,33 @@
         <option value="$PROJECT_DIR$/posts/static/aa.html" />
         <option value="$PROJECT_DIR$/posts/static/js/carousel.js" />
         <option value="$PROJECT_DIR$/templates/books.html" />
-        <option value="$PROJECT_DIR$/biblioteka/urls.py" />
         <option value="$PROJECT_DIR$/posts/static/css/carousel.css" />
         <option value="$PROJECT_DIR$/posts/urls.py" />
         <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/posts/admin.py" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
-        <option value="$PROJECT_DIR$/templates/list.html" />
-        <option value="$PROJECT_DIR$/templates/post_list.html" />
         <option value="$PROJECT_DIR$/posts/models.py" />
         <option value="$PROJECT_DIR$/posts/views.py" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
-        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
+        <option value="$PROJECT_DIR$/photologue/root.html" />
+        <option value="$PROJECT_DIR$/../django pliki/photologue/root.html" />
+        <option value="$PROJECT_DIR$/photologue/gallery_list.html" />
+        <option value="$PROJECT_DIR$/../django pliki/photologue/gallery_list.html" />
+        <option value="$PROJECT_DIR$/media_cdn/photologue/photos/gallery_list.html" />
+        <option value="$PROJECT_DIR$/media_cdn/photologue/root.html" />
+        <option value="$PROJECT_DIR$/media_cdn/photologue/photo_list.html" />
+        <option value="$PROJECT_DIR$/media_cdn/photologue/gallery_list.html" />
+        <option value="$PROJECT_DIR$/static/photologue/gallery_list.html" />
+        <option value="$PROJECT_DIR$/static/photologue/root.html" />
+        <option value="$PROJECT_DIR$/templates/post_list.html" />
         <option value="$PROJECT_DIR$/templates/post_detail.html" />
+        <option value="$PROJECT_DIR$/templates/list.html" />
+        <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html" />
+        <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_list.html" />
+        <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_detail.html" />
+        <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/biblioteka/urls.py" />
+        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
       </list>
     </option>
   </component>
@@ -226,7 +379,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,24 +416,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,10 +507,11 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="G:/Programy/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -671,7 +806,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -689,7 +824,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -713,142 +848,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" column="227" lean-forward="false" selection-start-line="132" selection-start-column="185" selection-end-line="132" selection-end-column="227" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="53" lean-forward="false" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="e#643#684#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="16" lean-forward="false" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="78" lean-forward="false" selection-start-line="29" selection-start-column="78" selection-end-line="29" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -916,7 +915,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -938,13 +937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -960,27 +952,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/static/aa.html" />
-    <entry file="file://$PROJECT_DIR$/templates/post_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="e#643#684#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,89 +984,223 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="83" column="25" lean-forward="false" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="918">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photologue/root.html" />
+    <entry file="file://$PROJECT_DIR$/../django pliki/photologue/root.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photologue/gallery_list.html" />
+    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../django pliki/photologue/gallery_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+        <state relative-caret-position="396">
+          <caret line="74" column="63" lean-forward="false" selection-start-line="74" selection-start-column="63" selection-end-line="74" selection-end-column="63" />
           <folding>
             <element signature="e#0#86#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/media_cdn/photologue/photos/gallery_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="172" selection-end-column="1" />
+        <state relative-caret-position="459">
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/media_cdn/photologue/photo_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="95" column="14" lean-forward="true" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+        <state relative-caret-position="408">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
+    <entry file="file://$PROJECT_DIR$/media_cdn/photologue/root.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3315">
-          <caret line="195" column="10" lean-forward="true" selection-start-line="151" selection-start-column="4" selection-end-line="195" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media_cdn/photologue/gallery_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/photologue/gallery_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/photologue/root.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/root.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
-          <caret line="35" column="30" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="35" selection-end-column="30" />
+          <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+        <state relative-caret-position="255">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding>
+            <marker date="1480801284570" expanded="true" signature="2405:2408" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
           <folding />
         </state>
       </provider>

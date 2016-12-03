@@ -90,12 +90,12 @@ h2 {
 h2::after {
     content: "";
     background: #CC8200 none repeat scroll 0 0;
-    width: 150px;
+    width: 100px;
     height: 2px;
     position: absolute;
     bottom: 0;
     left: 50%;
-    margin-left: -75px;
+    margin-left: -50px;
 }
 
 .post {
@@ -158,23 +158,30 @@ h3 a {
 .date2 {
     text-align: center;
     display: block;
-    padding-top: 10px;
+    padding-top: 5px;
     color: #666;
 }
 
 .instance {
     background: #fff;
-    padding: 30px;
-    margin-top: 50px;
+    padding: 25px;
 }
 
 .instance h2 {
     margin: 20px 0 0 0;
 }
 
+.instance .row p {
+    padding: 0 25px 0 25px;
+}
+
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
     background-color: #fff;
     color: #CC8200;
+}
+
+.thumbnail {
+    display: inline-block;
 }
 
 footer {

@@ -21,7 +21,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
-    url(r'^photologue/', include('photologue.urls', namespace='photologue')),
+    url(r'^galeria/', include('photologue.urls', namespace='photologue')),
     url(r'^summernote/', include('django_summernote.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'', include('posts.urls', namespace='posts')),

@@ -2,149 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/INSTALLER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/METADATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/RECORD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/WHEEL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/django_photologue-3.6.dist-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive_day.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive_month.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_archive_year.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/gallery_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive_day.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive_month.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_archive_year.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/photo_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/root.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/tags/next_in_gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/contrib/old_style_templates/templates/photologue/tags/prev_in_gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/forms.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ca/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ca/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/cs/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/cs/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da_DK/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/da_DK/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/de/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/de/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en_US/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/en_US/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/es_ES/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/es_ES/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/eu/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/eu/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/fr/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/fr/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/hu/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/hu/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/it/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/it/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/nl/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/nl/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/no/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/no/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pl/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pl/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt_BR/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/pt_BR/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ru/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/ru/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/sk/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/sk/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/tr/LC_MESSAGES/django.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/locale/tr/LC_MESSAGES/django.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/plcache.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/plcreatesize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/management/commands/plflush.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/managers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0002_photosize_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0003_auto_20140822_1716.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0004_auto_20140915_1259.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0005_auto_20141027_1552.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0006_auto_20141028_2005.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0007_auto_20150404_1737.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0008_auto_20150509_1557.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0009_auto_20160102_0904.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/0010_auto_20160105_1307.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/sample.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_nonsense.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_&amp;quoting.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_landscape.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_portrait.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/test_photologue_square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/zips/ignored_files.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/zips/not_image.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/res/zips/sample.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/sitemaps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/admin/photologue/photo/change_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/admin/photologue/photo/upload_zip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive_day.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive_month.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_archive_year.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/gallery_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/includes/gallery_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/includes/paginator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive_day.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive_month.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_archive_year.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/photo_list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/root.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/tags/next_in_gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templates/photologue/tags/prev_in_gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templatetags/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/templatetags/photologue_tags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/factories.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_effect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_gallery.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_photo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_photosize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_resize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_sitemap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_sites.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_views_gallery.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_views_photo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/tests/test_zipupload.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/utils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/utils/reflection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/utils/watermark.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/env/lib/python3.5/site-packages/photologue/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photologue/photos/cache/CACHEDIR.TAG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/biblioteka.iml" afterPath="$PROJECT_DIR$/.idea/biblioteka.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblioteka/urls.py" afterPath="$PROJECT_DIR$/biblioteka/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/list.html" afterPath="$PROJECT_DIR$/templates/list.html" />
     </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -191,14 +49,14 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="221">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="203" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -212,19 +70,19 @@
         <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
-              <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+            <state relative-caret-position="858">
+              <caret line="203" column="1" lean-forward="false" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="1" />
               <folding>
-                <marker date="1480801284570" expanded="true" signature="2405:2408" ph="{...}" />
+                <marker date="1480806369982" expanded="true" signature="2627:2630" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -264,7 +122,7 @@
         <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -344,10 +202,10 @@
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_list.html" />
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_detail.html" />
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/biblioteka/urls.py" />
         <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
       </list>
     </option>
   </component>
@@ -1110,7 +968,7 @@
     <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1150,7 +1008,7 @@
     <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1171,28 +1029,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
-          <folding>
-            <marker date="1480801284570" expanded="true" signature="2405:2408" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1202,6 +1042,24 @@
         <state relative-caret-position="493">
           <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="203" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="203" column="1" lean-forward="false" selection-start-line="203" selection-start-column="1" selection-end-line="203" selection-end-column="1" />
+          <folding>
+            <marker date="1480806369982" expanded="true" signature="2627:2630" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
     </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,14 +31,14 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="374">
               <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_form.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post_form.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/post_form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -49,8 +51,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="203" selection-end-column="1" />
+            <state relative-caret-position="389">
+              <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -59,8 +61,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
+            <state relative-caret-position="561">
+              <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -76,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="858">
@@ -158,6 +160,7 @@
       <find>ins</find>
       <find>after</find>
       <find>query</find>
+      <find>15</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -203,9 +206,9 @@
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_detail.html" />
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html" />
         <option value="$PROJECT_DIR$/biblioteka/urls.py" />
-        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
       </list>
     </option>
   </component>
@@ -1021,38 +1024,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="64" column="79" lean-forward="false" selection-start-line="64" selection-start-column="79" selection-end-line="64" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="203" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
@@ -1060,6 +1031,38 @@
           <folding>
             <marker date="1480806369982" expanded="true" signature="2627:2630" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+          <folding />
         </state>
       </provider>
     </entry>

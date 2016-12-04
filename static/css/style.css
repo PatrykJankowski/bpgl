@@ -26,22 +26,43 @@ a:hover, a:focus {
     font-size: 13px;
 }
 
+#nav-top {
+    background: #333333;
+    height: 40px;
+    transition: all 0.2s linear;
+}
+
 #nav-top.test {
     opacity: 0;
     height: 0px;
 }
 
-#nav-top {
-    background: #333333;
+#nav-top img {
     height: 40px;
+    padding: 6px;
+    float: right;
+    position: absolute;
+    right: 0px;
+    top: 0;
     transition: all 0.2s linear;
-    display: block;
+}
+
+#nav-top img:nth-child(2) {
+    right: 32px;
+}
+
+#nav-top .container {
+    position: relative;
+}
+
+#nav-top.test img {
+    top: -40px;
+    transition: all 0.2s linear;
 }
 
 nav {
     background: #FFF;
     box-shadow: 0 0 4px rgba(0,0,0,0.5);
-    transition: all 0.3s linear;
 }
 
 .navbar-brand {
@@ -58,17 +79,19 @@ nav {
     float: right;
 }
 
-.navbar-inverse .navbar-nav>li>a {
-    color: #666;
+.navbar-inverse .navbar-nav > li > a {
     font-size: 14px;
-    font-weight: 700;
     text-transform: uppercase;
     display: inline-block;
+    font-weight: 400;
+    color: #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.navbar img {
-    height: 100%;
-    padding: 4px;
+.navbar .navbar-brand img {
+    height: 60px;
+    padding: 9px;
 }
 
 .buttons {

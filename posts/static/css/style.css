@@ -1,10 +1,22 @@
 body {
-    padding-top: 50px;
+    margin-top: 60px;
     background-color: #f7f7f7;
     font-family: 'Open Sans', sans-serif;
     color: #999;
     font-size: 13px;
     line-height: 24px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
 }
 
 .instance > img {
@@ -212,13 +224,23 @@ h3 a {
     padding: 0 25px 0 25px;
 }
 
-.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover {
     background-color: #fff;
     color: #CC8200;
 }
 
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    color: #000;
+}
+
 .thumbnail {
     display: inline-block;
+}
+
+.tag {
+    padding: 5px;
+    color: #fff;
+    background: #000;
 }
 
 footer {

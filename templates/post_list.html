@@ -4,8 +4,9 @@
 {% block content %}
 
     <script>
+
     // Add scrollspy to <body>
-$('body').scrollspy({target: ".navbar", offset: 50});
+$('body').scrollspy({target: ".navbar", offset: 80});
 
 // Add smooth scrolling on all links inside the navbar
 $("#navbar a").on('click', function(event) {
@@ -22,11 +23,11 @@ $("#navbar a").on('click', function(event) {
     // Using jQuery's animate() method to add smooth page scroll
     // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
     $('html, body').animate({
-      scrollTop: $(hash).offset().top
+      scrollTop: $(hash).offset().top - 70
     }, 800, function(){
 
     // Add hash (#) to URL when done scrolling (default click behavior)
-      window.location.hash = hash;
+      //window.location.hash = hash;
     });
 
   } // End if
@@ -107,10 +108,10 @@ $("#navbar a").on('click', function(event) {
 
 
 
-
+<ul class="list">
               {% for post in posts %}
 
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                      <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
                           {% load thumbnail %}
                           {% thumbnail post.image 720x720 upscale as thumb %}
@@ -139,11 +140,20 @@ $("#navbar a").on('click', function(event) {
                       </div>
                       </div>
 
-                      </div>
+                      </li>
             {% endfor %}
+</ul>
+          <ul class="pagination"></ul>
+<script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
+<script>
+    var monkeyList = new List('aktualnosci', {
+  valueNames: ['post'],
+  page: 4,
+  plugins: [ ListPagination({}) ]
+});
 
-
-
+</script>
 
             </div><!--/span-->
 
@@ -155,7 +165,6 @@ $("#navbar a").on('click', function(event) {
           <h2>Nowości książkowe</h2>
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
-
 
 
               {% for post in books %}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblioteka/settings.py" afterPath="$PROJECT_DIR$/biblioteka/settings.py" />
     </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="248" column="1" lean-forward="false" selection-start-line="248" selection-start-column="1" selection-end-line="248" selection-end-column="1" />
+            <state relative-caret-position="331">
+              <caret line="217" column="0" lean-forward="true" selection-start-line="202" selection-start-column="25" selection-end-line="217" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="90" column="17" lean-forward="false" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -180,7 +190,6 @@
         <option value="$PROJECT_DIR$/templates/books.html" />
         <option value="$PROJECT_DIR$/posts/static/css/carousel.css" />
         <option value="$PROJECT_DIR$/posts/urls.py" />
-        <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/posts/admin.py" />
         <option value="$PROJECT_DIR$/posts/models.py" />
         <option value="$PROJECT_DIR$/posts/views.py" />
@@ -205,6 +214,7 @@
         <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/templates/post_detail.html" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/biblioteka/settings.py" />
       </list>
     </option>
   </component>
@@ -685,7 +695,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -843,14 +853,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/photologue/gallery_list.html" />
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../django pliki/photologue/gallery_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1025,8 +1027,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="248" column="1" lean-forward="false" selection-start-line="248" selection-start-column="1" selection-end-line="248" selection-end-column="1" />
+        <state relative-caret-position="331">
+          <caret line="217" column="0" lean-forward="true" selection-start-line="202" selection-start-column="25" selection-end-line="217" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="90" column="17" lean-forward="false" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
           <folding />
         </state>
       </provider>

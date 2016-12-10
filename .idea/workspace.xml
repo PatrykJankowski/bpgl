@@ -1,7 +1,456 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="" />
+    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/wiedzmin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/wiedzmin.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/11/wiedzmin.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/12/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/12/Nowy_obraz_mapy_bitowej.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/12/Nowy_obraz_mapy_bitowej.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/12/Nowy_obraz_mapy_bitowej.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14/Greatcoat-of-the-British-Army.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14/Greatcoat-of-the-British-Army.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14/Greatcoat-of-the-British-Army.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/14/Nowy_obraz_mapy_bitowej.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/2/Beztytułu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/2/Beztytułu.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/2/Beztytułu.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Beztytułu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Beztytułu.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army_ZVmmEod.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army_ZVmmEod.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army_sNUviYF.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Greatcoat-of-the-British-Army_sNUviYF.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Nowy_obraz_mapy_bitowej.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/Nowy_obraz_mapy_bitowej.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/wiedzmin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/wiedzmin.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/8/wiedzmin.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_Y5Yzq9K.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_Y5Yzq9K.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_Y5Yzq9K.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_Y5Yzq9K.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.1100x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.1140x0_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.2140x200_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.2140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.240x200_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Beztytułu_fExUpq3.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Greatcoat-of-the-British-Army.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Greatcoat-of-the-British-Army.jpg.300x300_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Greatcoat-of-the-British-Army.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Greatcoat-of-the-British-Army.jpg.500x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/Greatcoat-of-the-British-Army.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Bez_tytuu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Greatcoat-of-the-British-Army_fyU2rXp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/asd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Bez_tytuu_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Bez_tytuu_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Bez_tytuu_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/CACHEDIR.TAG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Greatcoat-of-the-British-Army_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Greatcoat-of-the-British-Army_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Greatcoat-of-the-British-Army_fyU2rXp_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Greatcoat-of-the-British-Army_fyU2rXp_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Greatcoat-of-the-British-Army_fyU2rXp_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Greatcoat-of-the-British-Army_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_8_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_8_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_8_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/Nowy_obraz_mapy_bitowej_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/asd_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/asd_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/asd_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_2_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_2_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_2_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_2_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_2_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_2_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_3_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_3_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_3_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_3_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_3_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_3_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_4_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_4_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_4_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_4_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_4_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_4_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_5_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_5_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_5_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_5_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_5_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_5_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_6_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_6_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_6_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_6_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_6_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_6_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_7_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_7_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_7_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_7_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_7_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_7_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_8_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_8_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_8_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/wiedzmin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_2_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_3_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_4_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_5_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_6_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_7_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/photologue/photos/wiedzmin_-_kopia_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-no.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/cancel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/change_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/popup_response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/SOURCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/django_summernote.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/django_summernote_inplace.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/font/summernote.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/font/summernote.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/font/summernote.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/jquery.fileupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/jquery.iframe-transport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/jquery.ui.widget.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ar-AR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ar-AR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-bg-BG.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-bg-BG.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ca-ES.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ca-ES.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-cs-CZ.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-cs-CZ.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-da-DK.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-da-DK.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-de-DE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-de-DE.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-es-ES.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-es-ES.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-es-EU.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-es-EU.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-fa-IR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-fa-IR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-fi-FI.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-fi-FI.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-fr-FR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-fr-FR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-gl-ES.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-gl-ES.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-he-IL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-he-IL.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-hr-HR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-hr-HR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-hu-HU.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-hu-HU.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-id-ID.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-id-ID.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-it-IT.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-it-IT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ja-JP.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ja-JP.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ko-KR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ko-KR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-lt-LT.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-lt-LT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-lt-LV.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-lt-LV.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-nb-NO.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-nb-NO.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-nl-NL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-nl-NL.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-pl-PL.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-pl-PL.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-pt-BR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-pt-PT.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-pt-PT.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ro-RO.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ro-RO.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ru-RU.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-ru-RU.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sk-SK.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sk-SK.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sl-SI.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sl-SI.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sr-RS-Latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sr-RS-Latin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sr-RS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sr-RS.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sv-SE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-sv-SE.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-th-TH.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-th-TH.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-tr-TR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-tr-TR.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-uk-UA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-uk-UA.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-vi-VN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-vi-VN.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-zh-CN.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/lang/summernote-zh-TW.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/summernote.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/django_summernote/summernote.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/aktualnosci.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/biblioteka_narodowa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/fun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/katalogi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/nowosci.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/program_rozwoju_czytelnictwa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/img/s1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/offcanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sortedm2m/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sortedm2m/selector-search.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sortedm2m/widget.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sortedm2m/widget.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblioteka/settings.py" afterPath="$PROJECT_DIR$/biblioteka/settings.py" />
+    </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -44,27 +493,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="727">
-              <caret line="272" column="1" lean-forward="false" selection-start-line="272" selection-start-column="1" selection-end-line="272" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="157" column="45" lean-forward="true" selection-start-line="157" selection-start-column="45" selection-end-line="157" selection-end-column="45" />
+            <state relative-caret-position="362">
+              <caret line="147" column="18" lean-forward="false" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -218,8 +657,8 @@
         <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
-        <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/biblioteka/settings.py" />
       </list>
     </option>
   </component>
@@ -259,38 +698,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -686,7 +1093,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19624217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1013,18 +1420,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="157" column="45" lean-forward="true" selection-start-line="157" selection-start-column="45" selection-end-line="157" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="147" column="18" lean-forward="false" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="18" />
           <folding />
         </state>
       </provider>

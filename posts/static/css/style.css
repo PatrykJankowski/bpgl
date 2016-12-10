@@ -225,7 +225,7 @@ h3 a {
     margin-top: 0;
 }
 
-#aktualnosci li {
+#aktualnosci li, #ksiazki li {
     padding: 0;
 }
 

@@ -8,9 +8,9 @@
           <div class="row">
 
           <h2>Nowości książkowe</h2>
-
+<ul>
               {% for post in list %}
-                      <div class="col-md-3">
+                      <li class="col-md-3">
                       <div class="post">
 
                           {% load thumbnail %}
@@ -31,8 +31,9 @@
                             <p><a class="btn btn-secondary" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
                       </div>
                       </div>
-                      </div>
+                      </li>
             {% endfor %}
+</ul>
             </div><!--/span-->
 
 </div>

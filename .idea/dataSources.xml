@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Django default" uuid="0da9b90c-155f-4447-b826-688abbd857c1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/biblioteka/settings.py</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sql.bpgl.nazwa.pl:5432/bpgl_2</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Django default2" uuid="c2b76d4b-cc7e-4249-95f2-4447d6f349d1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/biblioteka/settings.py</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sql.bpgl.nazwa.pl:5432/bpgl_2</jdbc-url>
+    </data-source>
+  </component>
+</project>

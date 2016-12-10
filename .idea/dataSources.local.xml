@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="0da9b90c-155f-4447-b826-688abbd857c1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>bpgl_2</user-name>
+      <user-password>dfe1dfd8dfcbdfd9dfc4dfcbdfc6df9b</user-password>
+    </data-source>
+    <data-source name="Django default2" uuid="c2b76d4b-cc7e-4249-95f2-4447d6f349d1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>bpgl_2</user-name>
+      <user-password>dfe1dfd8dfcbdfd9dfc4dfcbdfc6df9b</user-password>
+    </data-source>
+  </component>
+</project>

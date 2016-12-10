@@ -166,9 +166,9 @@ $("#navbar a").on('click', function(event) {
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
-
+<ul>
               {% for post in books %}
-                      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                      <li class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
                       <div class="post">
 
                           {% load thumbnail %}
@@ -194,10 +194,10 @@ $("#navbar a").on('click', function(event) {
                             <p><a class="btn" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
                       </div>
                       </div>
-                      </div>
+                      </li>
             {% endfor %}
 
-
+</ul>
 
 
             </div><!--/span-->

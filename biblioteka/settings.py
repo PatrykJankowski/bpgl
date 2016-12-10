@@ -26,7 +26,7 @@ SECRET_KEY = '&mt!w_-38o$n07*^w=l=j00f44dxje32c*ie#*e9-ijm9or9ct'
 DEBUG = True
 #TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = ['ec2-54-93-54-71.eu-central-1.compute.amazonaws.com']
+ALLOWED_HOSTS = ['ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -85,15 +85,27 @@ WSGI_APPLICATION = 'biblioteka.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.sqlite3',
+#        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#    }
+#}
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'bpgl_2',
+        'USER': 'bpgl_2',
+        'PASSWORD': 'Krasnal1',
+        'HOST': 'sql.bpgl.nazwa.pl',
+        'PORT': '5432',
     }
 }
 
 SOUTH_DATABASE_ADAPTERS = {
-    'default': 'south.db.sqlite3'
+    #'default': 'south.db.sqlite3'
+    'default': 'south.db.postgresql',
 }
 
 # Password validation
@@ -133,7 +145,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+STATIC_ROOT = os.path.join(BASE_DIR, '/static/')
 
 #STATICFILES_DIRS = [
 #    os.path.join(BASE_DIR, "static"),
@@ -143,7 +155,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 #STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
 MEDIA_URL = "/media/"
-MEDIA_ROOT = os.path.join(BASE_DIR, "media_cdn")
+MEDIA_ROOT = os.path.join(BASE_DIR, '/media_cdn/')
 
 SUMMERNOTE_CONFIG = {
 

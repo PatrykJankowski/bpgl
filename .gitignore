@@ -1,4 +1,4 @@
-.idea
-biblioteka/settings.py
-__pycache__
-media/photologue/photos/cache
+.idea/
+biblioteka/settings.py/
+__pycache__/
+media/photologue/photos/cache/

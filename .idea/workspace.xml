@@ -2,8 +2,284 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/wiedzmin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/wiedzmin.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/11/wiedzmin.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/12/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/12/Nowy_obraz_mapy_bitowej.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/12/Nowy_obraz_mapy_bitowej.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/12/Nowy_obraz_mapy_bitowej.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/14/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/14/Greatcoat-of-the-British-Army.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/14/Greatcoat-of-the-British-Army.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/14/Greatcoat-of-the-British-Army.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/14/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/14/Nowy_obraz_mapy_bitowej.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/2/Beztytułu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/2/Beztytułu.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/2/Beztytułu.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Beztytułu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Beztytułu.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army_ZVmmEod.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army_ZVmmEod.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army_sNUviYF.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Greatcoat-of-the-British-Army_sNUviYF.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Nowy_obraz_mapy_bitowej.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/Nowy_obraz_mapy_bitowej.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/wiedzmin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/wiedzmin.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/8/wiedzmin.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_Y5Yzq9K.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_Y5Yzq9K.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_Y5Yzq9K.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_Y5Yzq9K.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.1100x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.1140x0_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.2140x200_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.2140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.240x200_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Beztytułu_fExUpq3.png.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Greatcoat-of-the-British-Army.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Greatcoat-of-the-British-Army.jpg.300x300_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Greatcoat-of-the-British-Army.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Greatcoat-of-the-British-Army.jpg.500x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/Greatcoat-of-the-British-Army.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.1140x500_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.400x400_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/9/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2016.11.04_23.40.00.jpg.720x720_q85_upscale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Bez_tytuu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Greatcoat-of-the-British-Army.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Greatcoat-of-the-British-Army_fyU2rXp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/Nowy_obraz_mapy_bitowej_-_kopia_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/asd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Bez_tytuu_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Bez_tytuu_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Bez_tytuu_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/CACHEDIR.TAG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Greatcoat-of-the-British-Army_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Greatcoat-of-the-British-Army_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Greatcoat-of-the-British-Army_fyU2rXp_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Greatcoat-of-the-British-Army_fyU2rXp_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Greatcoat-of-the-British-Army_fyU2rXp_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Greatcoat-of-the-British-Army_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_2_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_3_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_4_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_5_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_6_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_7_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_8_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_8_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_8_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/Nowy_obraz_mapy_bitowej_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_4YEnNfA_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_839vnl0_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_CDEPSE3_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_OfZzsHR_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Pwj6v0K_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_Qc4JO2S_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_VGnLEsr_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_WugXqfg_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_fAVr5q1_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_ijpMMbB_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_j0VsG7Y_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jJi3sK8_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_jqnqzxn_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_mn5ma3h_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_pvabkwh_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe_admin_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe_display.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/The.Walking.Dead.S07E02.1080p.WEB-DL.x264-FUMettv.mkv_snapshot_13.49_2_sMOgqoe_thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/asd_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/asd_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/asd_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_2_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_2_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_2_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_2_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_2_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_2_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_3_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_3_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_3_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_3_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_3_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_3_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_4_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_4_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_4_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_4_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_4_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_4_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_5_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_5_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_5_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_5_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_5_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_5_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_6_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_6_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_6_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_6_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_6_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_6_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_7_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_7_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_7_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_7_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_7_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_7_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_8_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_8_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_8_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_-_kopia_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_admin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_display.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/cache/wiedzmin_thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_2_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_3_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_4_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_5_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_6_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_7_-_kopia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media_cdn/photologue/photos/wiedzmin_-_kopia_8.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biblioteka/settings.py" afterPath="$PROJECT_DIR$/biblioteka/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_list.html" afterPath="$PROJECT_DIR$/templates/post_list.html" />
     </list>
@@ -42,14 +318,14 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="215" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="272" selection-end-column="1" />
+            <state relative-caret-position="295">
+              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="727">
@@ -62,8 +338,18 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="73" column="61" lean-forward="false" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+            <state relative-caret-position="532">
+              <caret line="157" column="45" lean-forward="true" selection-start-line="157" selection-start-column="45" selection-end-line="157" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -82,8 +368,21 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="199" column="5" lean-forward="false" selection-start-line="199" selection-start-column="5" selection-end-line="199" selection-end-column="5" />
+            <state relative-caret-position="551">
+              <caret line="181" column="84" lean-forward="false" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -93,7 +392,7 @@
         <entry file="file://$PROJECT_DIR$/posts/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
-              <caret line="45" column="51" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="51" />
+              <caret line="45" column="51" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="51" />
               <folding>
                 <element signature="e#0#86#0" expanded="true" />
               </folding>
@@ -106,16 +405,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="52" lean-forward="false" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -160,8 +449,9 @@
       <find>li</find>
       <find>post</find>
       <find>a</find>
-      <find>head</find>
       <find>dat</find>
+      <find>btn</find>
+      <find>head</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -205,11 +495,12 @@
         <option value="$PROJECT_DIR$/biblioteka/urls.py" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/post_detail.html" />
-        <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/posts/views.py" />
-        <option value="$PROJECT_DIR$/templates/post_list.html" />
-        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/post_list.html" />
+        <option value="$PROJECT_DIR$/biblioteka/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -249,20 +540,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="biblioteka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -732,13 +1009,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/posts/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -883,14 +1153,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -974,7 +1236,7 @@
     <entry file="file://$PROJECT_DIR$/posts/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
-          <caret line="45" column="51" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="51" />
+          <caret line="45" column="51" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="45" selection-end-column="51" />
           <folding>
             <element signature="e#0#86#0" expanded="true" />
           </folding>
@@ -997,26 +1259,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="199" column="5" lean-forward="false" selection-start-line="199" selection-start-column="5" selection-end-line="199" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="73" column="61" lean-forward="false" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="215" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="272" selection-end-column="1" />
+        <state relative-caret-position="295">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1025,6 +1271,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="727">
           <caret line="272" column="1" lean-forward="false" selection-start-line="272" selection-start-column="1" selection-end-line="272" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblioteka/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="181" column="84" lean-forward="false" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="157" column="45" lean-forward="true" selection-start-line="157" selection-start-column="45" selection-end-line="157" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           <folding />
         </state>
       </provider>

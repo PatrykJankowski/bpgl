@@ -178,6 +178,8 @@ $("#navbar a").on('click', function(event) {
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
                                 <div class="date">{{ post.category }} | {{ post.published|date:"d M. Y"|lower }}</div>
                             {% else %}
+                                <div style="width: 100%; max-height: 200px; overflow-y: hidden;">
+                                <img src='{% static 'img/biblioteka_narodowa.jpg' %}' class='' style="width: 100%" /></div>
                                 <div class="date2">{{ post.category }} | {{ post.published|date:"d M. Y"|lower }}</div>
                             {% endif %}
 

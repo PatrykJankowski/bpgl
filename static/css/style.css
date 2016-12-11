@@ -160,6 +160,7 @@ h2::after {
     height: 400px;
     margin-bottom: 25px;
     color: #fff;
+    overflow: hidden;
 }
 
 .post h3 a {
@@ -215,11 +216,9 @@ h3 a {
 }
 
 .post .text {
-    padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;
-    overflow: hidden;
 }
 
 .post h3 {
@@ -231,7 +230,7 @@ h3 a {
 }
 
 .post > div:first-child {
-    max-height:1.2em;
+    max-height: 200px;
 
     -moz-transition: 1s;
     -ms-transition: 1s;
@@ -241,19 +240,20 @@ h3 a {
 }
 
 .post > div:first-child:hover {
-    max-height: 999px;
+    max-height: 380px;
 }
 
 .date {
-    margin-top: -14px;
+    top: -14px;
     text-align: center;
     background: #333;
-    width: 82%;
+    width: 78%;
     display: block;
     position: relative;
-    margin-left: 30px;
+    left: 50%;
     padding: 3px 0 3px 0;
     color: #fff;
+    transform: translateX(-50%);
 }
 
 .date2 {

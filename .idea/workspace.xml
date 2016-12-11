@@ -37,21 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="89" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="226" column="0" lean-forward="true" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="727">
-              <caret line="285" column="1" lean-forward="false" selection-start-line="285" selection-start-column="1" selection-end-line="285" selection-end-column="1" />
+              <caret line="285" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -145,7 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>nav</find>
       <find>rela</find>
       <find>-18</find>
       <find>but</find>
@@ -175,6 +174,7 @@
       <find>aktu</find>
       <find>img</find>
       <find>padding</find>
+      <find>ing: 0</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -222,8 +222,8 @@
         <option value="$PROJECT_DIR$/templates/list.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
-        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
       </list>
     </option>
   </component>
@@ -955,18 +955,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="89" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
+        <state relative-caret-position="727">
+          <caret line="285" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="285" column="1" lean-forward="false" selection-start-line="285" selection-start-column="1" selection-end-line="285" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="226" column="0" lean-forward="true" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
           <folding />
         </state>
       </provider>

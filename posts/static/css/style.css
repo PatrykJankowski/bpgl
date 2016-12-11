@@ -87,7 +87,7 @@ nav {
 }
 
 .navbar-brand {
-    padding: 2px;
+    padding: 0px;
 }
 
 .navbar-inverse {
@@ -226,7 +226,7 @@ h3 a {
 }
 
 #aktualnosci li, #ksiazki li {
-    padding: 0;
+    padding: 2px;
 }
 
 .date {

@@ -30,7 +30,7 @@ ul li {
 }
 
 a:hover, a:focus {
-    color: #CC8200;
+    color: #F17E01;
 }
 
 .btn {
@@ -147,7 +147,7 @@ h2 {
 
 h2::after {
     content: "";
-    background: #CC8200 none repeat scroll 0 0;
+    background: #F17E01 none repeat scroll 0 0;
     width: 100px;
     height: 2px;
     position: absolute;
@@ -167,7 +167,7 @@ h2::after {
 }
 
 li:first-child .post {
-    background-color: #313131;
+    background-color: #333;
 }
 
 li:nth-child(2) .post{
@@ -232,7 +232,7 @@ h3 a {
 .date {
     margin-top: -14px;
     text-align: center;
-    background: #000;
+    background: #333;
     width: 82%;
     display: block;
     position: relative;
@@ -263,7 +263,7 @@ h3 a {
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover {
     background-color: #fff;
-    color: #CC8200;
+    color: #F17E01;
 }
 
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {

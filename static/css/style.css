@@ -219,6 +219,7 @@ h3 a {
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;
+    overflow: hidden;
 }
 
 .post h3 {
@@ -227,6 +228,20 @@ h3 a {
 
 #aktualnosci li, #ksiazki li {
     padding: 0;
+}
+
+.post > div:first-child {
+    max-height:1.2em;
+
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    -webkit-transition: 1s;
+    transition: 1s;
+}
+
+.post > div:first-child:hover {
+    max-height: 999px;
 }
 
 .date {

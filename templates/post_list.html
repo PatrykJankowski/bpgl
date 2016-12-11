@@ -130,7 +130,7 @@ $("#navbar a").on('click', function(event) {
                         <div class="text">
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:120 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
                             {% else %}
                                 <hr>
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
@@ -187,7 +187,7 @@ $("#navbar a").on('click', function(event) {
                         <div class="text">
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:120 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
                             {% else %}
 
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>

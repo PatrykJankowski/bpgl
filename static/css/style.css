@@ -166,23 +166,23 @@ h2::after {
     color: #fff;
 }
 
-li:first-child .post {
+li:first-child .post, li:first-child .date {
     background-color: #333;
 }
 
-li:nth-child(2) .post{
+li:nth-child(2) .post, li:nth-child(2) .date {
     background-color: #4D4D4D;
 }
 
-li:nth-child(3) .post{
+li:nth-child(3) .post, li:nth-child(3) .date {
     background-color: #F17E01;
 }
 
-li:nth-child(4) .post{
+li:nth-child(4) .post, li:nth-child(4) .date {
     background-color: #676767;
 }
 
-li .post {
+li .post, li .date {
     background-color: #4D4D4D;
 }
 
@@ -226,7 +226,7 @@ h3 a {
 }
 
 #aktualnosci li, #ksiazki li {
-    padding: 2px;
+    padding: 0;
 }
 
 .date {

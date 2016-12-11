@@ -61,15 +61,15 @@ a:hover, a:focus {
 }
 
 #nav-top img:first-child {
-    right: 219px;
+    right: 231px;
 }
 
 #nav-top img:nth-child(2) {
-    right: 69px;
+    right: 81px;
 }
 
 #nav-top img:nth-child(3) {
-    right: 34px;
+    right: 40px;
 }
 
 #nav-top .container {
@@ -226,7 +226,7 @@ h3 a {
 }
 
 #aktualnosci li, #ksiazki li {
-    padding: 0;
+    padding: 2px;
 }
 
 .date {

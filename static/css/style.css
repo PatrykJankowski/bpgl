@@ -61,15 +61,15 @@ a:hover, a:focus {
 }
 
 #nav-top img:first-child {
-    right: 219px;
+    right: 231px;
 }
 
 #nav-top img:nth-child(2) {
-    right: 69px;
+    right: 81px;
 }
 
 #nav-top img:nth-child(3) {
-    right: 34px;
+    right: 40px;
 }
 
 #nav-top .container {
@@ -87,7 +87,7 @@ nav {
 }
 
 .navbar-brand {
-    padding: 0px;
+    padding: 2px;
 }
 
 .navbar-inverse {

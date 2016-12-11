@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
     </list>
     <ignored path="biblioteka.iws" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="228" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
+            <state relative-caret-position="244">
+              <caret line="89" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -144,8 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ws</find>
-      <find>wsp</find>
       <find>nav</find>
       <find>rela</find>
       <find>-18</find>
@@ -174,6 +173,8 @@
       <find>img</find>
       <find>head</find>
       <find>aktu</find>
+      <find>img</find>
+      <find>padding</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -956,8 +957,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="228" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
+        <state relative-caret-position="244">
+          <caret line="89" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="285" selection-end-column="1" />
           <folding />
         </state>
       </provider>

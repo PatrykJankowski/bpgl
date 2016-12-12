@@ -205,6 +205,7 @@ li .post, li .date {
 
 .biblioteka img {
     padding-right: 25px;
+    max-height: 302px;
 }
 
 h3 {

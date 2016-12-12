@@ -2,7 +2,7 @@ body {
     margin-top: 60px;
     background-color: #f7f7f7;
     font-family: 'Open Sans', sans-serif;
-    color: #999;
+    color: #676767;
     font-size: 13px;
     line-height: 24px;
 }
@@ -39,8 +39,12 @@ a:hover, a:focus {
     font-weight: bold;
 }
 
+.btn:hover {
+    color: #F17E01;
+}
+
 #nav-top {
-    background: #333333;
+    background: #333;
     height: 40px;
     transition: all 0.2s linear;
 }
@@ -187,6 +191,10 @@ li .post, li .date {
     background-color: #4D4D4D;
 }
 
+li:nth-child(3) .btn:hover {
+    color: #333;
+}
+
 #aktualnosci {
     margin-top: 25px;
 }
@@ -197,6 +205,10 @@ li .post, li .date {
 
 #wsparcie {
     margin: 25px 0;
+}
+
+#wsparcie h3 {
+    margin: 0 0 25px 0;
 }
 
 #wsparcie img {
@@ -299,4 +311,5 @@ h3 a {
 footer {
     background: #333;
     padding-bottom: 25px;
+    color: #999;
 }

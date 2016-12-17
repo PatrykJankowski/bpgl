@@ -160,6 +160,10 @@ h2::after {
     margin-left: -50px;
 }
 
+a {
+    color: #333;
+}
+
 .post {
     height: 400px;
     margin-bottom: 25px;
@@ -208,7 +212,7 @@ li:nth-child(3) .link:hover {
 }
 
 #wsparcie h3, #galeria h3 {
-    margin: 0 0 25px 0;
+    margin: 0 0 20px 0;
 }
 
 #wsparcie img {

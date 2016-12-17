@@ -256,7 +256,7 @@ $( ".post > div:first-child"  ).mouseleave(function() {
                           {% load thumbnail %}
                           {% thumbnail post.image 500x500 upscale as thumb %}
                                 <div class="pull-left" style="overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
+                                    <a href="{{ thumb.url }}" data-lightbox="image-1" data-title="My caption"><img src='{{ thumb.url }}' class='' style="width: 100%" /></a></div>
 
 
                         <div class="text">
@@ -281,7 +281,7 @@ $( ".post > div:first-child"  ).mouseleave(function() {
     </section>
 
     <section id="galeria">
-        <h3>Nasza galeria zdjęć:</h3>
+        <a href="galeria" title="Galeria zdjęć"><h3>Odwiedź naszą galerię zdjęć &raquo;</h3></a>
     <div class="row">
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->

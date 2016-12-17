@@ -270,20 +270,13 @@ h3 a {
 }
 
 .post > div:first-child:hover {
-    max-height: 380px;
+    max-height: 366px;
 }
 
 .date {
-    top: -14px;
     text-align: center;
-    background: #333;
-    width: 78%;
-    display: block;
-    position: relative;
-    left: 50%;
-    padding: 3px 0 3px 0;
-    color: #fff;
-    transform: translateX(-50%);
+    font-weight: bold;
+    margin-top: 5px;
 }
 
 .date2 {

@@ -140,8 +140,8 @@ $("#navbar a").on('click', function(event) {
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
-                                <div class="date">{{ post.category }} {% for tag in post.tags.all %}
-        {% endfor %}| {{ post.published|date:"d.m.Y"|lower }}</div>
+                                <p class="date">{{ post.category }} {% for tag in post.tags.all %}
+        {% endfor %}| {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% else %}
                                 <div class="date2">{{ post.category }} {% for tag in post.tags.all %}
         {% endfor %}| {{ post.published|date:"d.m.Y"|lower }}</div>

@@ -197,7 +197,7 @@ $("#navbar a").on('click', function(event) {
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
-                                <div class="date">{{ post.category }} | {{ post.published|date:"d M. Y"|lower }}</div>
+                                <p class="date">{{ post.category }} | {{ post.published|date:"d M. Y"|lower }}</p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{% static 'img/biblioteka_narodowa.jpg' %}' class='' style="width: 100%" /></div>

@@ -12,22 +12,11 @@
   height: auto;
   max-height: 480px;
   /*min-height: 400px;*/
-
+  -webkit-filter: brightness(90%);
+  filter: brightness(90%);
 }
 
 /* ------------------- Carousel Styling ------------------- */
-
-.carousel-caption {
-  background-color: rgba(0,0,0,.1);
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 10;
-  padding: 417px 0 10px 25px;
-  color: #fff;
-  text-align: left;
-}
 
 .carousel-indicators {
   position: absolute;

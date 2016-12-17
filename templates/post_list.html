@@ -135,7 +135,7 @@ $("#navbar a").on('click', function(event) {
                       <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
                           {% load thumbnail %}
-                          {% thumbnail post.image 720x720 upscale as thumb %}
+                          {% thumbnail post.image 285x285 upscale as thumb %}
 
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
@@ -193,7 +193,7 @@ $("#navbar a").on('click', function(event) {
                       <div class="post">
 
                           {% load thumbnail %}
-                          {% thumbnail post.image 720x720 upscale as thumb %}
+                          {% thumbnail post.image 285x285 upscale as thumb %}
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
@@ -208,7 +208,6 @@ $("#navbar a").on('click', function(event) {
 
 
 $( ".post > div:first-child"  ).mouseover(function() {
-
 
 
 });
@@ -257,7 +256,7 @@ $( ".post > div:first-child"  ).mouseleave(function() {
                           {% load thumbnail %}
                           {% thumbnail post.image 500x500 upscale as thumb %}
                                 <div class="pull-left" style="overflow-y: hidden;">
-                                    <a href="{{ thumb.url }}" data-lightbox="image-1" data-title="My caption"><img src='{{ thumb.url }}' class='' style="width: 100%" /></a></div>
+                                    <a href="{{ thumb.url }}" data-lightbox="o-bibliotece"><img src='{{ thumb.url }}' class='' style="width: 100%" /></a></div>
 
 
                         <div class="text">
@@ -294,7 +293,7 @@ $( ".post > div:first-child"  ).mouseleave(function() {
         <div class="col-md-4">
             <img class="img-responsive" src="media/photologue/photos/_dsc5643.jpg" />
         </div>
-<div class="col-md-4">
+        <div class="col-md-4">
              <img class="img-responsive" src="media/photologue/photos/_dsc5643.jpg" />
         </div>
         <div class="col-md-4">

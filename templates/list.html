@@ -14,10 +14,11 @@
                       <div class="post">
 
                           {% load thumbnail %}
-                          {% thumbnail post.image 400x400 upscale as thumb %}
+                          {% thumbnail post.image 285x285 upscale as thumb %}
                             {% if post.image %}
-                                <img src='{{ thumb.url }}' class='img-responsive' style="max-height: 200px; width: 100%" />
-                                <div class="date">{{ post.category }} | {{ post.published }}</div>
+                                <div style="width: 100%; overflow-y: hidden;">
+                                <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
+                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% endif %}
 
                         <div class="text">

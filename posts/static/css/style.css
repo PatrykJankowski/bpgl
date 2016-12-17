@@ -160,6 +160,10 @@ h2::after {
     margin-left: -50px;
 }
 
+h2 a {
+    color: #333;
+}
+
 .post {
     height: 400px;
     margin-bottom: 25px;

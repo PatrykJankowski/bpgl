@@ -54,12 +54,11 @@
             {% endfor %}
         </div>
 
-            {% if instance.slug == 'o-bibliotece' %}
-
-            <a href="{{ post.get_absolute_url }}"><h3>Kim był Aleksander Majkowski? &raquo;</h3></a>
-            <a href="{{ post.get_absolute_url }}"><h3>Sprawdź cennik naszych usług &raquo;</h3></a>
-            <a href="{{ post.get_absolute_url }}"><h3>Zobacz nasze regulaminy &raquo;</h3></a>
-
+            {% if instance.category.slug == 'o-bibliotece' %}
+                {% if instance.slug != 'o-bibliotece' %}<a href="/o-bibliotece"><h3>Historia biblioteki &raquo;</h3></a>{% endif %}
+                {% if instance.slug != 'aleksander-majkowski' %}<a href="/aleksander-majkowski"><h3>Kim był Aleksander Majkowski? &raquo;</h3></a>{% endif %}
+                {% if instance.slug != 'cennik' %}<a href="/cennik"><h3>Sprawdź cennik naszych usług &raquo;</h3></a>{% endif %}
+                {% if instance.slug != 'regulaminy' %}<a href="/regulaminy"><h3>Zobacz nasze regulaminy &raquo;</h3></a>{% endif %}
             {% endif %}
 
             <a href="/list" title=""><h3>Zobacz inne wpisy &raquo;</h3></a>

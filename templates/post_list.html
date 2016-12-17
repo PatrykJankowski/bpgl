@@ -250,6 +250,7 @@ $( ".post > div:first-child"  ).mouseleave(function() {
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
               {% for post in library %}
+                {% if post.slug == "o-bibliotece" %}
                       <div class="col-lg-12">
                       <div class="biblioteka">
 
@@ -268,12 +269,13 @@ $( ".post > div:first-child"  ).mouseleave(function() {
                             {% endif %}
 
                             <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Dowiedz się więcej o nas! &raquo;</a></p>
-                            <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Kim był Aleksander Majkowski? &raquo;</a></p>
-                            <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Sprawdź cennik naszych usług &raquo;</a></p>
-                            <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Zobacz nasze regulaminy &raquo;</a></p>
+                            <p><a class="link" href="/aleksander-majkowski" role="button">Kim był Aleksander Majkowski? &raquo;</a></p>
+                            <p><a class="link" href="/cennik" role="button">Sprawdź cennik naszych usług &raquo;</a></p>
+                            <p><a class="link" href="/regulaminy" role="button">Zobacz nasze regulaminy &raquo;</a></p>
                       </div>
                       </div>
                       </div>
+            {% endif %}
             {% endfor %}
 
 

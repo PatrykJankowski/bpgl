@@ -53,8 +53,17 @@
                 {% if not forloop.last %} {% else %} {% endif %}
             {% endfor %}
         </div>
-            <h3>Zobacz inne wpisy</h3>
-            <h3>Zobacz nowości książkowe</h3>
+
+            {% if instance.slug == 'o-bibliotece' %}
+
+            <a href="{{ post.get_absolute_url }}"><h3>Kim był Aleksander Majkowski? &raquo;</h3></a>
+            <a href="{{ post.get_absolute_url }}"><h3>Sprawdź cennik naszych usług &raquo;</h3></a>
+            <a href="{{ post.get_absolute_url }}"><h3>Zobacz nasze regulaminy &raquo;</h3></a>
+
+            {% endif %}
+
+            <a href="/list" title=""><h3>Zobacz inne wpisy &raquo;</h3></a>
+            <a href="/list"><h3>Zobacz nowości książkowe &raquo;</h3></a>
 
         </div>
 

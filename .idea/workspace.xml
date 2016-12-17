@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_detail.html" afterPath="$PROJECT_DIR$/templates/post_detail.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_list.html" afterPath="$PROJECT_DIR$/templates/post_list.html" />
     </list>
     <ignored path="biblioteka.iws" />
@@ -69,8 +71,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="114" column="4" lean-forward="true" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+            <state relative-caret-position="244">
+              <caret line="88" column="28" lean-forward="false" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -79,14 +81,14 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="270" column="141" lean-forward="false" selection-start-line="270" selection-start-column="141" selection-end-line="270" selection-end-column="141" />
+            <state relative-caret-position="669">
+              <caret line="277" column="20" lean-forward="false" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#9617#9624#0#HTML" expanded="true" />
-                <element signature="e#9759#9766#0#HTML" expanded="true" />
-                <element signature="e#9900#9907#0#HTML" expanded="true" />
-                <element signature="e#10036#10043#0#HTML" expanded="true" />
+                <element signature="e#9670#9677#0#HTML" expanded="true" />
+                <element signature="e#9806#9813#0#HTML" expanded="true" />
+                <element signature="e#9927#9934#0#HTML" expanded="true" />
+                <element signature="e#10047#10054#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +110,22 @@
             <state relative-caret-position="289">
               <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#2122#2129#0#HTML" expanded="true" />
+                <element signature="e#2222#2229#0#HTML" expanded="true" />
+                <element signature="e#2317#2324#0#HTML" expanded="true" />
+                <element signature="e#2419#2426#0#HTML" expanded="true" />
+                <element signature="e#2493#2500#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,8 +153,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>navbar</find>
-      <find>focus</find>
       <find>a</find>
       <find>li</find>
       <find>img</find>
@@ -163,8 +179,10 @@
       <find>ksiaz</find>
       <find>gal</find>
       <find>h2</find>
-      <find>date</find>
       <find>wsp</find>
+      <find>if</find>
+      <find>maj</find>
+      <find>date</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -207,15 +225,15 @@
         <option value="$PROJECT_DIR$/posts/views.py" />
         <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/templates/list.html" />
-        <option value="$PROJECT_DIR$/templates/post_detail.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_list.html" />
         <option value="$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html" />
         <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/posts/static/css/carousel.css" />
         <option value="$PROJECT_DIR$/static/css/carousel.css" />
+        <option value="$PROJECT_DIR$/templates/post_detail.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
       </list>
     </option>
@@ -257,6 +275,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -873,14 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="193" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="193" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -937,58 +961,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="114" column="4" lean-forward="true" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/includes/gallery_sample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="33" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="328" column="1" lean-forward="false" selection-start-line="328" selection-start-column="1" selection-end-line="328" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="199" column="1" lean-forward="true" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1001,16 +977,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/gallery_archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="33" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="199" column="1" lean-forward="true" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#2122#2129#0#HTML" expanded="true" />
+            <element signature="e#2222#2229#0#HTML" expanded="true" />
+            <element signature="e#2317#2324#0#HTML" expanded="true" />
+            <element signature="e#2419#2426#0#HTML" expanded="true" />
+            <element signature="e#2493#2500#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="328" column="1" lean-forward="false" selection-start-line="328" selection-start-column="1" selection-end-line="328" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="88" column="28" lean-forward="false" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="270" column="141" lean-forward="false" selection-start-line="270" selection-start-column="141" selection-end-line="270" selection-end-column="141" />
+        <state relative-caret-position="669">
+          <caret line="277" column="20" lean-forward="false" selection-start-line="277" selection-start-column="20" selection-end-line="277" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#9617#9624#0#HTML" expanded="true" />
-            <element signature="e#9759#9766#0#HTML" expanded="true" />
-            <element signature="e#9900#9907#0#HTML" expanded="true" />
-            <element signature="e#10036#10043#0#HTML" expanded="true" />
+            <element signature="e#9670#9677#0#HTML" expanded="true" />
+            <element signature="e#9806#9813#0#HTML" expanded="true" />
+            <element signature="e#9927#9934#0#HTML" expanded="true" />
+            <element signature="e#10047#10054#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

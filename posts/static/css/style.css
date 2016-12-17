@@ -292,7 +292,7 @@ h3 a {
 
 .instance {
     background: #fff;
-    padding: 25px;
+    padding: 60px 25px 25px;
 }
 
 .instance h2 {
@@ -303,6 +303,15 @@ h3 a {
     padding: 0 25px 0 25px;
     text-align: justify;
 }
+
+.instance img:first-child {
+    max-height: 300px;
+}
+.content-img {
+    display: table;
+    margin: auto;
+}
+
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover {
     background-color: #fff;

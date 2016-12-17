@@ -23,7 +23,13 @@
                 {% endif %}
             <div class="row">
                 <h2>{{ instance.title }}</h2>
-                <div class="date2">{{ instance.category }} | {{ instance.published }}</div>
+
+
+
+                <div class="date2">{% if instance.category.slug != 'o-bibliotece' %}{{ instance.category }} | {{ instance.published }}{% else %} Zaktualizowano: {{ instance.updated }}{% endif %}</div>
+
+
+
 
                 <div class="fb-like" data-href="{{ request.build_absolute_uri }}" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
             </div>
@@ -83,9 +89,9 @@
                      $(".tag").css('color', 'red');
                    }
 
-                    $("a[href='#katalogi").attr('href', '/#katalogi')
-                    $("a[href='#o_bibliotece").attr('href', '/o-bibliotece')
-                    $("a[href='#galeria").attr('href', '/galeria')
+                    $("a[href='#katalogi").prop('href', '/#katalogi')
+                    $("a[href='#o_bibliotece").prop('href', '/o-bibliotece')
+                    $("a[href='#galeria").prop('href', '/galeria')
 
                  });
             </script>

@@ -319,7 +319,7 @@ h3 a {
 }
 
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
-    color: #F17E01;
+    color: #333;
 }
 
 .thumbnail {
@@ -331,6 +331,23 @@ h3 a {
     color: #fff;
     background: #333;
 }
+
+.gallery {
+    background: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.thumbnail {
+    margin: 5px;
+}
+
+.fb-like {
+    text-align: center;
+    display: block !important;
+}
+
+.fb-comments, .fb-comments > span, .fb-comments iframe {width: 100% !important;}
 
 footer {
     background: #333;

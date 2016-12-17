@@ -79,21 +79,15 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="295" column="82" lean-forward="false" selection-start-line="295" selection-start-column="82" selection-end-line="295" selection-end-column="82" />
+            <state relative-caret-position="477">
+              <caret line="270" column="141" lean-forward="false" selection-start-line="270" selection-start-column="141" selection-end-line="270" selection-end-column="141" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#9617#9624#0#HTML" expanded="true" />
+                <element signature="e#9759#9766#0#HTML" expanded="true" />
+                <element signature="e#9900#9907#0#HTML" expanded="true" />
+                <element signature="e#10036#10043#0#HTML" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="photo_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Envs/bpgl/Lib/site-packages/photologue/templates/photologue/photo_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="65" lean-forward="false" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -168,8 +162,8 @@
       <find>aktu</find>
       <find>ksiaz</find>
       <find>gal</find>
-      <find>date</find>
       <find>h2</find>
+      <find>date</find>
       <find>wsp</find>
     </findStrings>
     <replaceStrings>
@@ -710,7 +704,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../newwave/newwave/settings.py" />
-    <entry file="file://$PROJECT_DIR$/../newwave/newwave/settings.py" />
     <entry file="file://$PROJECT_DIR$/posts/static/css/navbar-top.css" />
     <entry file="file://$PROJECT_DIR$/posts/apps.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1000,12 +993,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5chars.ent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="105" column="10" lean-forward="false" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="295" column="82" lean-forward="false" selection-start-line="295" selection-start-column="82" selection-end-line="295" selection-end-column="82" />
+        <state relative-caret-position="477">
+          <caret line="270" column="141" lean-forward="false" selection-start-line="270" selection-start-column="141" selection-end-line="270" selection-end-column="141" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#9617#9624#0#HTML" expanded="true" />
+            <element signature="e#9759#9766#0#HTML" expanded="true" />
+            <element signature="e#9900#9907#0#HTML" expanded="true" />
+            <element signature="e#10036#10043#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

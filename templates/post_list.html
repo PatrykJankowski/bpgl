@@ -261,13 +261,16 @@ $( ".post > div:first-child"  ).mouseleave(function() {
 
                         <div class="text">
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:820 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:520 }}</p>
                             {% else %}
                                 <hr>
                                 <p style="text-align: justify">{{ post.text|safe }}</p>
                             {% endif %}
 
                             <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Dowiedz się więcej o nas! &raquo;</a></p>
+                            <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Kim był Aleksander Majkowski? &raquo;</a></p>
+                            <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Sprawdź cennik naszych usług &raquo;</a></p>
+                            <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Zobacz nasze regulaminy &raquo;</a></p>
                       </div>
                       </div>
                       </div>

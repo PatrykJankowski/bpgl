@@ -5,6 +5,10 @@
 
     <script>
 
+    $( document ).ready(function() {
+    console.log( "ready!" );
+
+
     // Add scrollspy to <body>
 $('body').scrollspy({target: ".navbar", offset: 80});
 
@@ -31,6 +35,9 @@ $("#navbar a").on('click', function(event) {
     });
 
   } // End if
+
+
+});
 
 });
 

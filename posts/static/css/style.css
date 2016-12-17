@@ -301,6 +301,7 @@ h3 a {
 
 .instance .row p {
     padding: 0 25px 0 25px;
+    text-align: justify;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover {

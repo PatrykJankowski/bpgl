@@ -53,7 +53,7 @@
         <div class="tags">
             {% for tag in instance.tag.all %}
 
-                <a href="/list/?tag={{tag.slug}}" class="tag">{{tag}}</a>
+                <a href="/wpisy/?tag={{tag.slug}}" class="tag">{{tag}}</a>
 
                 {% if not forloop.last %} {% else %} {% endif %}
             {% endfor %}
@@ -66,8 +66,8 @@
                 {% if instance.slug != 'regulaminy' %}<a href="/regulaminy"><h3>Zobacz nasze regulaminy &raquo;</h3></a>{% endif %}
             {% endif %}
 
-            <a href="/list" title=""><h3>Zobacz inne wpisy &raquo;</h3></a>
-            <a href="/list"><h3>Zobacz nowości książkowe &raquo;</h3></a>
+            <a href="/wpisy/?kategoria=aktualnosci" title=""><h3>Zobacz inne wpisy &raquo;</h3></a>
+            <a href="/wpisy/?kategoria=ksiazki"><h3>Zobacz nowości książkowe &raquo;</h3></a>
 
         </div>
 
@@ -90,6 +90,8 @@
                    }
 
                     $("a[href='#katalogi").prop('href', '/#katalogi')
+                    $("a[href='#aktualnosci").prop('href', '/wpisy/?kategoria=aktualnosci')
+                    $("a[href='#ksiazki").prop('href', '/wpisy/?kategoria=ksiazki')
                     $("a[href='#o_bibliotece").prop('href', '/o-bibliotece')
                     $("a[href='#galeria").prop('href', '/galeria')
 

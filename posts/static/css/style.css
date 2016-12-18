@@ -283,6 +283,39 @@ h3 a {
     padding: 0;
 }
 
+.all {
+    margin: 0;
+    float: right;
+    position: relative;
+    z-index: 1;
+}
+
+.pagination {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: -16px;
+    top: -8px;
+}
+
+.pagination > li {
+    display: inline-block;
+}
+
+.pagination > li > a, .pagination > li > span {
+    color: #fff;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background-color: #333;
+    border-color: #333;
+}
+
+.pagination > li > a, .pagination > li > span {
+    background-color: #676767;
+    border-color: #676767;
+}
+
 .post > div:first-child {
     max-height: 200px;
 

@@ -108,7 +108,7 @@ $("#navbar a").on('click', function(event) {
 
           <h2>Katalogi</h2>
 
-              <div class="col-md-3">
+              <div class="col-md-3 col-sm-6">
                   <a href="http://83.14.59.198:81/cgi-bin/LibraOpac.dll" target="_blank" title="Katalog Libra - Linia">
                       <figure>
                           <img src="{% static 'img/katalog_linia.png' %}" alt="Katalog Libra - Linia">
@@ -116,15 +116,15 @@ $("#navbar a").on('click', function(event) {
                       </figure>
                   </a>
               </div>
-              <div class="col-md-3">
-                  <a href="http://83.14.59.198:81/sf/anims" target="_blank" title="Molik Linia - katalog dla dzieci">
+              <div class="col-md-3 col-sm-6">
+                  <a href="http://83.14.59.198:81/sf/anims" target="_blank" title="Molik - katalog dla dzieci - Linia">
                       <figure>
-                          <img src="{% static 'img/molik_linia.png' %}" alt="Molik Linia - katalog dla dzieci">
+                          <img src="{% static 'img/molik_linia.png' %}" alt="Molik - katalog dla dzieci - Linia">
                           <figcaption>Molik Linia</figcaption>
                       </figure>
                   </a>
               </div>
-              <div class="col-md-3">
+              <div class="col-md-3 col-sm-6">
                   <a href="http://83.14.252.230:81/LibraOpac.dll" target="_blank" title="Katalog Libra - Strzepcz">
                       <figure>
                           <img src="{% static 'img/katalog_strzepcz.png' %}" alt="Katalog Libra - Strzepcz">
@@ -132,10 +132,10 @@ $("#navbar a").on('click', function(event) {
                       </figure>
                   </a>
               </div>
-              <div class="col-md-3">
-                  <a href="http://83.14.252.230:82/sf/anims" target="_blank" title="Molik Strzepcz - katalog dla dzieci">
+              <div class="col-md-3 col-sm-6">
+                  <a href="http://83.14.252.230:82/sf/anims" target="_blank" title="Molik - katalog dla dzieci - Strzepcz">
                       <figure>
-                          <img src="{% static 'img/molik_strzepcz.png' %}" alt="Molik Strzepcz - katalog dla dzieci">
+                          <img src="{% static 'img/molik_strzepcz.png' %}" alt="Molik - katalog dla dzieci - Strzepcz">
                           <figcaption>Molik Strzepcz</figcaption>
                       </figure>
                   </a>
@@ -162,7 +162,7 @@ $("#navbar a").on('click', function(event) {
                       <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
                           {% load thumbnail %}
-                          {% thumbnail post.image 285x285 upscale as thumb %}
+                          {% thumbnail post.image 360x360 upscale as thumb %}
 
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
@@ -191,17 +191,9 @@ $("#navbar a").on('click', function(event) {
                       </li>
             {% endfor %}
 </ul>
+              <a href="/wpisy/?kategoria=ksiazki" title="Zobacz wszystkie aktualności, projekty, wydarzenia"><h3 class="all">Zobacz wszystkie &rarr;</h3></a>
           <ul class="pagination"></ul>
-<script src="http://listjs.com/assets/javascripts/list.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
-<script>
-    var monkeyList = new List('aktualnosci', {
-  valueNames: ['post'],
-  page: 4,
-  plugins: [ ListPagination({}) ]
-});
 
-</script>
 
             </div><!--/span-->
 
@@ -214,13 +206,13 @@ $("#navbar a").on('click', function(event) {
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
-<ul>
+<ul class="list">
               {% for post in books %}
                       <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
 
                           {% load thumbnail %}
-                          {% thumbnail post.image 285x285 upscale as thumb %}
+                          {% thumbnail post.image 360x360 upscale as thumb %}
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
@@ -231,21 +223,6 @@ $("#navbar a").on('click', function(event) {
                                 <div class="date2">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</div>
                             {% endif %}
 
-<script>
-
-
-$( ".post > div:first-child"  ).mouseover(function() {
-
-
-});
-
-
-$( ".post > div:first-child"  ).mouseleave(function() {
-
-});
-
-
-</script>
                         <div class="text">
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
@@ -262,7 +239,23 @@ $( ".post > div:first-child"  ).mouseleave(function() {
             {% endfor %}
 
 </ul>
+    <a href="/wpisy/?kategoria=ksiazki" title="Zobacz wszystkie nowości książki"><h3 class="all">Zobacz wszystkie &rarr;</h3></a>
+          <ul class="pagination"></ul>
+<script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
+<script>
+    var newsList = new List('aktualnosci', {
+  valueNames: ['post'],
+  page: 4,
+  plugins: [ ListPagination({}) ]
+});
+  var booksList = new List('ksiazki', {
+  valueNames: ['post'],
+  page: 4,
+  plugins: [ ListPagination({}) ]
+});
 
+</script>
 
             </div><!--/span-->
 

@@ -4,7 +4,7 @@ from .views import post_create, post_list, post_update, post_delete, post_detail
 
 urlpatterns = [
     url(r'^$', post_list, name='list'),
-    url(r'^list/$', list),
+    url(r'^wpisy/$', list),
 
     url(r'^create/$', post_create),
     url(r'^(?P<slug>[\w-]+)/$', post_detail, name='detail'),

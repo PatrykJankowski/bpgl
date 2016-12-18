@@ -58,25 +58,27 @@ a:hover, a:focus {
     height: 0px;
 }
 
-#nav-top img {
-    height: 40px;
-    padding: 6px;
+#nav-top a {
     float: right;
     position: absolute;
     right: 0px;
     top: 0;
     transition: all 0.2s linear;
 }
+#nav-top a > img {
+    height: 40px;
+    padding: 6px;
+}
 
-#nav-top img:first-child {
+#nav-top a:first-child {
     right: 231px;
 }
 
-#nav-top img:nth-child(2) {
-    right: 81px;
+#nav-top a:nth-child(2) {
+    right: 84px;
 }
 
-#nav-top img:first-child {
+#nav-top a:first-child {
     right: 40px;
 }
 
@@ -84,7 +86,7 @@ a:hover, a:focus {
     position: relative;
 }
 
-#nav-top.test img {
+#nav-top.test a {
     top: -40px;
     transition: all 0.2s linear;
 }
@@ -145,6 +147,7 @@ nav {
 
 figure {
     text-align: center;
+    margin-bottom: 25px;
 }
 
 figure img {

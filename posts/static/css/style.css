@@ -11,6 +11,10 @@ a:hover {
     text-decoration: none;
 }
 
+a:focus {
+    text-decoration: none;
+}
+
 ul {
     padding: 0;
 }
@@ -72,7 +76,7 @@ a:hover, a:focus {
     right: 81px;
 }
 
-#nav-top img:nth-child(3) {
+#nav-top img:first-child {
     right: 40px;
 }
 

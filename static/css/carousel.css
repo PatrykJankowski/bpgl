@@ -10,7 +10,7 @@
   display: block;
   width: 100%;
   height: auto;
-  max-height: 480px;
+  max-height: 500px;
   /*min-height: 400px;*/
   -webkit-filter: brightness(90%);
   filter: brightness(90%);

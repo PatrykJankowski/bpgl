@@ -44,7 +44,7 @@ $("#navbar a").on('click', function(event) {
     </script>
 
     <header>
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide visible-lg visible-md" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -159,7 +159,7 @@ $("#navbar a").on('click', function(event) {
 <ul class="list">
               {% for post in posts %}
 
-                      <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                      <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                       <div class="post">
                           {% load thumbnail %}
                           {% thumbnail post.image 360x360 upscale as thumb %}
@@ -191,7 +191,7 @@ $("#navbar a").on('click', function(event) {
                       </li>
             {% endfor %}
 </ul>
-              <a href="/wpisy/?kategoria=ksiazki" title="Zobacz wszystkie aktualności, projekty, wydarzenia"><h3 class="all">Zobacz wszystkie &rarr;</h3></a>
+              <a href="/wpisy/?kategoria=aktualnosci" title="Zobacz wszystkie aktualności, projekty, wydarzenia"><h3 class="all">Zobacz wszystkie &rarr;</h3></a>
           <ul class="pagination"></ul>
 
 
@@ -332,14 +332,11 @@ $("#navbar a").on('click', function(event) {
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
-        <div class="col-md-4">
+        <div class="col-md-6">
             <img class="center-block" src="{% static 'img/biblioteka_narodowa.jpg' %}" />
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
              <img class="center-block" src="{% static 'img/program_rozwoju_czytelnictwa.jpg' %}" />
-        </div>
-        <div class="col-md-4">
-             <img class="center-block" src="{% static 'img/ikonka.gif' %}" />
         </div>
 
 

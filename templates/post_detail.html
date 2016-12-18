@@ -49,12 +49,18 @@
 
 
         <div class="col-md-3">
-        <h3>Zobacz więcej:</h3>
+        {% if instance.category.slug == 'ksiazki' %}
+            <h3>Więcej książek:</h3>
+        {% else %}
+            <h3>Inne wpisy:</h3>
+        {% endif %}
         <div class="tags">
             {% for tag in instance.tag.all %}
-
-                <a href="/wpisy/?tag={{tag.slug}}" class="tag">{{tag}}</a>
-
+                {% if instance.category.slug == 'ksiazki' %}
+                    <a href="/wpisy/?tag={{tag.slug}}&kategoria=ksiazki" class="tag">{{tag}}</a>
+                {% else %}
+                    <a href="/wpisy/?tag={{tag.slug}}" class="tag">{{tag}}</a>
+                {% endif %}
                 {% if not forloop.last %} {% else %} {% endif %}
             {% endfor %}
         </div>

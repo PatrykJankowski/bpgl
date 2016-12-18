@@ -1,14 +1,15 @@
 {% extends 'base.html' %}
+{% load staticfiles %}
 
 {% block content %}
 
-    <div class="container">
+    <div class="container list-all">
 
 
           <div class="row">
 
           <h2>Nowości książkowe</h2>
-<ul>
+<ul class="list">
               {% for post in list %}
                       <li class="col-md-3">
                       <div class="post">
@@ -24,12 +25,12 @@
                         <div class="text">
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|linebreaksbr|truncatechars:120 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
                             {% else %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:420 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
                             {% endif %}
 
-                            <p><a class="btn btn-secondary" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>
+                            <p><a class="link" href="{{ post.get_absolute_url }}">Zobacz więcej &raquo;</a></p>
                       </div>
                       </div>
                       </li>
@@ -38,4 +39,7 @@
             </div><!--/span-->
 
 </div>
+
+    <script src="{% static 'js/menu.js' %}"></script>
+
 {% endblock content %}

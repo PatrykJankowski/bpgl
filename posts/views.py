@@ -93,13 +93,13 @@ def list(request):
 
     list = Post.objects.all()
 
-    query = request.GET.get("q")
+    query = request.GET.get("kategoria")
     if query:
-        list = list.filter(category__title__icontains=query)
+        list = list.filter(category__slug__icontains=query)
 
     query_tag = request.GET.get("tag")
     if query_tag:
-        list = list.filter(tag__title__icontains=query_tag)
+        list = list.filter(tag__slug__icontains=query_tag)
 
     paginator = Paginator(list, 12)  # Show 25 contacts per page
     page = request.GET.get('page')

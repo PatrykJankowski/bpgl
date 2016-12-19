@@ -153,9 +153,6 @@ $("#navbar a").on('click', function(event) {
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
 
-
-
-
 <ul class="list">
               {% for post in posts %}
 
@@ -166,12 +163,20 @@ $("#navbar a").on('click', function(event) {
 
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
-                                <p class="date">{{ post.category }} {% for tag in post.tags.all %}
-        {% endfor %}| {{ post.published|date:"d.m.Y"|lower }}</p>
+                                <img src='{{ thumb.url }}' class='' style="width: 100%" />
+                                </div>
+                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% else %}
-                                <div class="date2">{{ post.category }} {% for tag in post.tags.all %}
-        {% endfor %}| {{ post.published|date:"d.m.Y"|lower }}</div>
+                                <div style="width: 100%; overflow-y: hidden; text-align: center">
+                                    {% if post.category.slug == 'aktualnosci' %}
+                                        <img src='{% static 'img/aktualnosci.png' %}' class='' style="height: 200px; padding: 20px" />
+                                    {% elif post.category.slug == 'projekty' %}
+                                        <img src='{% static 'img/projekty.png' %}' class='' style="height: 200px; padding: 20px" />
+                                    {% elif post.category.slug == 'komunikaty' %}
+                                        <img src='{% static 'img/komunikaty.png' %}' class='' style="height: 200px; max-width: 100%; padding: 20px" />
+                                    {% endif %}
+                                </div>
+                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% endif %}
 
 
@@ -180,7 +185,7 @@ $("#navbar a").on('click', function(event) {
                             {% if post.image %}
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
                             {% else %}
-                                <hr>
+
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
                             {% endif %}
 

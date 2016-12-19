@@ -50,6 +50,9 @@
 
         <div class="col-md-3">
         {% if instance.category.slug == 'ksiazki' %}
+            <script>
+                $("#navbar").find("ul li:nth-child(3)").addClass("active");
+            </script>
             <h3>Więcej książek:</h3>
         {% else %}
             <h3>Inne wpisy:</h3>
@@ -66,6 +69,9 @@
         </div>
 
             {% if instance.category.slug == 'o-bibliotece' %}
+                <script>
+                    $("#navbar").find("ul li:nth-child(4)").addClass("active");
+                </script>
                 {% if instance.slug != 'o-bibliotece' %}<a href="/o-bibliotece"><h3>Historia biblioteki &raquo;</h3></a>{% endif %}
                 {% if instance.slug != 'aleksander-majkowski' %}<a href="/aleksander-majkowski"><h3>Kim był Aleksander Majkowski? &raquo;</h3></a>{% endif %}
                 {% if instance.slug != 'cennik' %}<a href="/cennik"><h3>Sprawdź cennik naszych usług &raquo;</h3></a>{% endif %}

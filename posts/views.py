@@ -3,6 +3,7 @@ from django.contrib import messages
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from .models import Post
 from .forms import PostForm
+from django.db.models import Q
 
 
 def post_create(request):
@@ -24,9 +25,9 @@ def post_create(request):
 
 
 def post_list(request):
-    posts = Post.objects.filter(category__title__icontains="Aktualności")
-    books = Post.objects.filter(category__title__icontains="Książki")
-    library = Post.objects.filter(category__title__icontains="O bibliotece")
+    posts = Post.objects.filter(Q(category__slug__icontains="aktualnosci") | Q(category__slug__icontains="projekty") | Q(category__slug__icontains="komunikaty"))
+    books = Post.objects.filter(category__slug__icontains="ksiazki")
+    library = Post.objects.filter(category__slug__icontains="o-bibliotece")
 
     query = request.GET.get("q")
     if query:

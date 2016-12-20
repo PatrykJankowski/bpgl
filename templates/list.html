@@ -8,7 +8,7 @@
 
           <div class="row">
 
-          <h2>Nowości książkowe</h2>
+          <h2>Więcej wpisów...</h2>
 <ul class="list">
               {% for post in list %}
                       <li class="col-md-3">
@@ -18,7 +18,19 @@
                           {% thumbnail post.image 285x285 upscale as thumb %}
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
+                                <img src='{{ thumb.url }}' class='' style="width: 100%" />
+                                </div>
+                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
+                            {% else %}
+                                <div style="width: 100%; overflow-y: hidden; text-align: center">
+                                    {% if post.category.slug == 'aktualnosci' %}
+                                        <img src='{% static 'img/aktualnosci.png' %}' class='' style="height: 200px; padding: 50px" />
+                                    {% elif post.category.slug == 'projekty' %}
+                                        <img src='{% static 'img/projekty.png' %}' class='' style="height: 200px; padding: 50px" />
+                                    {% elif post.category.slug == 'komunikaty' %}
+                                        <img src='{% static 'img/komunikaty.png' %}' class='' style="height: 200px; max-width: 100%; padding: 50px" />
+                                    {% endif %}
+                                </div>
                                 <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% endif %}
 
@@ -27,7 +39,7 @@
                             {% if post.image %}
                                 <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
                             {% else %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
+                                <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
                             {% endif %}
 
                             <p><a class="link" href="{{ post.get_absolute_url }}">Zobacz więcej &raquo;</a></p>

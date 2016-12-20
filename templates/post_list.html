@@ -55,21 +55,9 @@ $("#navbar a").on('click', function(event) {
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
         <div class="item active">
-          <img src="{% static 'img/s1.jpg' %}" alt="...">
+          <img src="{% static 'img/zyczenia.jpg' %}" alt="...">
           <div class="carousel-caption">
              <!--  <h3>Heading</h3>  -->
-          </div>
-        </div>
-        <div class="item">
-          <img src="{% static 'img/s1.jpg' %}" alt="...">
-          <div class="carousel-caption">
-
-          </div>
-        </div>
-        <div class="item">
-          <img src="{% static 'img/s1.jpg' %}" alt="...">
-          <div class="carousel-caption">
-
           </div>
         </div>
       </div>
@@ -169,24 +157,23 @@ $("#navbar a").on('click', function(event) {
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden; text-align: center">
                                     {% if post.category.slug == 'aktualnosci' %}
-                                        <img src='{% static 'img/aktualnosci.png' %}' class='' style="height: 200px; padding: 20px" />
+                                        <img src='{% static 'img/aktualnosci.png' %}' class='' style="height: 200px; padding: 50px" />
                                     {% elif post.category.slug == 'projekty' %}
-                                        <img src='{% static 'img/projekty.png' %}' class='' style="height: 200px; padding: 20px" />
+                                        <img src='{% static 'img/projekty.png' %}' class='' style="height: 200px; padding: 50px" />
                                     {% elif post.category.slug == 'komunikaty' %}
-                                        <img src='{% static 'img/komunikaty.png' %}' class='' style="height: 200px; max-width: 100%; padding: 20px" />
+                                        <img src='{% static 'img/komunikaty.png' %}' class='' style="height: 200px; max-width: 100%; padding: 50px" />
                                     {% endif %}
                                 </div>
                                 <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% endif %}
 
 
-                        <div class="text">
+                      <div class="text">
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h3>
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:100 }}</p>
+                                <p>{{ post.text|safe|truncatechars:95 }}</p>
                             {% else %}
-
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:320 }}</p>
+                                <p>{{ post.text|safe|truncatechars:95 }}</p>
                             {% endif %}
 
                             <p><a class="link" href="{{ post.get_absolute_url }}" role="button">Zobacz więcej &raquo;</a></p>

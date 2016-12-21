@@ -482,3 +482,17 @@ footer {
     color: #999;
     height: 220px;
 }
+
+footer h3, footer h5 {
+    color: #F17E01;
+}
+
+footer > .container > .row > div img {
+    display: inline-block;
+    margin-right: 5px;
+    width: 20px;
+}
+
+footer span {
+    vertical-align: middle;
+}

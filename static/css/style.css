@@ -473,14 +473,14 @@ h3 a {
   display: block;
 }
 footer, .page-wrap:after {
-    height: 220px;
+    min-height: 220px;
 }
 
 footer {
     background: #333;
     padding-bottom: 25px;
     color: #999;
-    height: 220px;
+    min-height: 220px;
 }
 
 footer h3, footer h5 {

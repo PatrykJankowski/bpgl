@@ -55,7 +55,7 @@ $("#navbar a").on('click', function(event) {
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
         <div class="item active">
-          <img src="{% static 'img/zyczenia.jpg' %}" alt="...">
+          <img src="{% static 'img/zyczenia.jpg' %}" alt="zyczenia">
           <div class="carousel-caption">
              <!--  <h3>Heading</h3>  -->
           </div>
@@ -63,17 +63,6 @@ $("#navbar a").on('click', function(event) {
       </div>
     </div>
 
-    <!--<div class="buttons">
-        <div class="row">
-            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/aktualnosci.png' %}"/><div>Aktualności</div></a></div>
-            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/nowosci.png' %}"/><div>Nowości książkowe</div></a></div>
-            <div class="col-sm-4"><a href="#" class="przycisk"><img width="80" src="{% static 'img/katalogi.png' %}"/><div>Katalogi</div></a></div>
-        </div>
-    <div class="row">
-        Godziny otwarcia: pon. - pt, 9:00 - 17:00<br>
-        Kontakt: strzepcz@bpgl.pl, linia@bpgl.pl
-    </div>
-    </div> -->
 </header>
     <div class="container">
 
@@ -151,17 +140,17 @@ $("#navbar a").on('click', function(event) {
 
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' class='' style="width: 100%" />
+                                <img src='{{ thumb.url }}' alt="Obraz dla aktualności" class='' style="width: 100%" />
                                 </div>
                                 <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden; text-align: center">
                                     {% if post.category.slug == 'aktualnosci' %}
-                                        <img src='{% static 'img/aktualnosci.png' %}' class='' style="height: 200px; padding: 15px" />
+                                        <img src='{% static 'img/aktualnosci.png' %}' alt="Ikona - aktualności" class='' style="height: 200px; padding: 15px" />
                                     {% elif post.category.slug == 'projekty' %}
-                                        <img src='{% static 'img/projekty.png' %}' class='' style="height: 200px; padding: 15px" />
+                                        <img src='{% static 'img/projekty.png' %}' alt="Ikona - projekty" class='' style="height: 200px; padding: 15px" />
                                     {% elif post.category.slug == 'komunikaty' %}
-                                        <img src='{% static 'img/komunikaty.png' %}' class='' style="height: 200px; padding: 15px" />
+                                        <img src='{% static 'img/komunikaty.png' %}' alt="Ikona - komunikaty" class='' style="height: 200px; padding: 15px" />
                                     {% endif %}
                                 </div>
                                 <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
@@ -207,11 +196,11 @@ $("#navbar a").on('click', function(event) {
                           {% thumbnail post.image 360x360 upscale as thumb %}
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' class='' style="width: 100%" /></div>
+                                <img src='{{ thumb.url }}' alt="Okładka książki" class='' style="width: 100%" /></div>
                                 <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{% static 'img/biblioteka_narodowa.jpg' %}' class='' style="width: 100%" /></div>
+                                <img src='{% static 'img/aktualnosci.png' %}' alt="Okładka książki" class='' style="width: 100%" /></div>
                                 <div class="date2">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</div>
                             {% endif %}
 
@@ -268,7 +257,7 @@ $("#navbar a").on('click', function(event) {
                           {% load thumbnail %}
                           {% thumbnail post.image 500x500 upscale as thumb %}
                                 <div class="pull-left" style="overflow-y: hidden;">
-                                    <a href="{{ thumb.url }}" data-lightbox="o-bibliotece"><img src='{{ thumb.url }}' class='' style="width: 100%" /></a></div>
+                                    <a href="{{ thumb.url }}" data-lightbox="o-bibliotece"><img src='{{ thumb.url }}' alt="biblioteka" class='' style="width: 100%" /></a></div>
 
 
                         <div class="text">
@@ -303,13 +292,13 @@ $("#navbar a").on('click', function(event) {
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
         <div class="col-md-4">
-            <img class="img-responsive" src="media/photologue/photos/dsc_0466.jpg" />
+            <img class="img-responsive" alt="Zdjęcie z galerii" src="media/photologue/photos/dsc_0466.jpg" />
         </div>
         <div class="col-md-4">
-            <img class="img-responsive" src="media/photologue/photos/_dsc5643.jpg" />
+            <img class="img-responsive" alt="Zdjęcie z galerii" src="media/photologue/photos/_dsc5643.jpg" />
         </div>
         <div class="col-md-4">
-             <img class="img-responsive" src="media/photologue/photos/dsc_0453.jpg" />
+             <img class="img-responsive" alt="Zdjęcie z galerii" src="media/photologue/photos/dsc_0453.jpg" />
         </div>
 
 
@@ -322,21 +311,18 @@ $("#navbar a").on('click', function(event) {
         <h3>Działalność biblioteki wspierana jest przez:</h3>
     <div class="row">
 
-
         <div class="col-md-3">
-            <img class="center-block" src="{% static 'img/biblioteka_narodowa.jpg' %}" />
+            <img class="center-block" src="{% static 'img/biblioteka_narodowa.jpg' %}" alt="Biblioteka Narodowa" />
         </div>
         <div class="col-md-3">
-             <img class="center-block" src="{% static 'img/program_rozwoju_czytelnictwa.jpg' %}" />
+             <img class="center-block" src="{% static 'img/program_rozwoju_czytelnictwa.jpg' %}" alt="Program Rozwoju Czytelnictwa" />
         </div>
         <div class="col-md-3">
-             <img class="center-block" src="{% static 'img/fundacja_orange.jpg' %}" />
+             <img class="center-block" src="{% static 'img/fundacja_orange.jpg' %}" alt="Fundacja Orange"/>
         </div>
         <div class="col-md-3">
-             <img class="center-block" src="{% static 'img/fundacja_banku_pekao.jpg' %}" />
+             <img class="center-block" src="{% static 'img/fundacja_banku_pekao.jpg' %}" alt="Fundacja Banku Pekao"/>
         </div>
-
-
 
     </div><!--/span-->
 

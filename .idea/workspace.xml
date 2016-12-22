@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="" />
+    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+    </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="468" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="497" selection-end-column="1" />
+            <state relative-caret-position="511">
+              <caret line="490" column="4" lean-forward="false" selection-start-line="490" selection-start-column="4" selection-end-line="490" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -44,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="75" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="119" selection-end-column="7" />
+            <state relative-caret-position="429">
+              <caret line="99" column="52" lean-forward="false" selection-start-line="99" selection-start-column="52" selection-end-line="99" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -186,8 +189,8 @@
       <find>padd</find>
       <find>list-a</find>
       <find>180</find>
-      <find>#f</find>
       <find>paddi</find>
+      <find>#f</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -245,11 +248,11 @@
         <option value="$PROJECT_DIR$/templates/post_detail.html" />
         <option value="$PROJECT_DIR$/posts/views.py" />
         <option value="$PROJECT_DIR$/templates/list.html" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
-        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
       </list>
     </option>
   </component>
@@ -954,14 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="468" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="497" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="727">
@@ -1006,8 +1001,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="75" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="119" selection-end-column="7" />
+        <state relative-caret-position="429">
+          <caret line="99" column="52" lean-forward="false" selection-start-line="99" selection-start-column="52" selection-end-line="99" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="490" column="4" lean-forward="false" selection-start-line="490" selection-start-column="4" selection-end-line="490" selection-end-column="4" />
           <folding />
         </state>
       </provider>

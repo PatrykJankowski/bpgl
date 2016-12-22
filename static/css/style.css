@@ -487,6 +487,10 @@ footer h3, footer h5 {
     color: #F17E01;
 }
 
+footer .row {
+    padding-left: 20px;
+}
+
 footer > .container > .row > div img {
     display: inline-block;
     margin-right: 5px;
@@ -494,5 +498,5 @@ footer > .container > .row > div img {
 }
 
 footer span {
-    vertical-align: middle;
+    margin-left: 25px;
 }

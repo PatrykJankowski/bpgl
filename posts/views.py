@@ -34,6 +34,7 @@ def post_list(request):
         posts = posts.filter(category__title__icontains=query)
 
     paginator = Paginator(posts, 12)
+    paginator_books = Paginator(books, 12)
     page = request.GET.get('page')
 
     try:
@@ -46,13 +47,13 @@ def post_list(request):
         posts = paginator.page(paginator.num_pages)
 
     try:
-        books = paginator.page(page)
+        books = paginator_books.page(page)
     except PageNotAnInteger:
         # If page is not an integer, deliver first page.
-        books = paginator.page(1)
+        books = paginator_books.page(1)
     except EmptyPage:
         # If page is out of range (e.g. 9999), deliver last page of results.
-        books = paginator.page(paginator.num_pages)
+        books = paginator_books.page(paginator_books.num_pages)
 
     return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library})
 

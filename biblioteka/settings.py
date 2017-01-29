@@ -26,12 +26,7 @@ SECRET_KEY = '&mt!w_-38o$n07*^w=l=j00f44dxje32c*ie#*e9-ijm9or9ct'
 DEBUG = True
 #TEMPLATE_DEBUG = DEBUG
 
-<<<<<<< HEAD
-ALLOWED_HOSTS = ['bpgl.pl', 'www.bpgl.pl', '54.93.54.71', 'ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost']
-=======
-ALLOWED_HOSTS = ['ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost', '54.93.54.71']
->>>>>>> d32717bd6f2ba8f7e7118b1dcb98892815a574cf
-
+ALLOWED_HOSTS = ['bpgl.pl', 'www.bpgl.pl', 'ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost', '54.93.54.71']
 
 # Application definition
 

@@ -49,10 +49,8 @@ def post_list(request):
     try:
         books = paginator_books.page(page)
     except PageNotAnInteger:
-        # If page is not an integer, deliver first page.
         books = paginator_books.page(1)
     except EmptyPage:
-        # If page is out of range (e.g. 9999), deliver last page of results.
         books = paginator_books.page(paginator_books.num_pages)
 
     return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library})

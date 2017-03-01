@@ -26,7 +26,7 @@ SECRET_KEY = '&mt!w_-38o$n07*^w=l=j00f44dxje32c*ie#*e9-ijm9or9ct'
 DEBUG = True
 #TEMPLATE_DEBUG = DEBUG
 
-ALLOWED_HOSTS = ['bpgl.pl', 'www.bpgl.pl', 'ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost', '54.93.54.71']
+ALLOWED_HOSTS = ['bpgl.pl', 'www.bpgl.pl', 'ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost', '54.93.54.71', 'strzepcz.ssd-linuxpl.com']
 
 # Application definition
 
@@ -144,7 +144,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '/home/ubuntu/biblioteka/static'
+STATIC_ROOT = '/home/strzepcz/biblioteka/static'
 
 #STATICFILES_DIRS = [
 #    os.path.join(BASE_DIR, "static"),
@@ -154,7 +154,7 @@ STATIC_ROOT = '/home/ubuntu/biblioteka/static'
 
 #STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
 MEDIA_URL = "/media/"
-MEDIA_ROOT = '/home/ubuntu/biblioteka/media'
+MEDIA_ROOT = '/home/strzepcz/biblioteka/media'
 
 SUMMERNOTE_CONFIG = {
 

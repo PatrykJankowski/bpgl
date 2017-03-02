@@ -94,11 +94,11 @@ WSGI_APPLICATION = 'biblioteka.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bpgl_2',
-        'USER': 'bpgl_2',
-        'PASSWORD': 'Krasnal1',
-        'HOST': 'sql.bpgl.nazwa.pl',
-        'PORT': '5432',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 

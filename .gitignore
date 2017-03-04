@@ -7,3 +7,4 @@
 .idea\workspace.xml
 .biblioteka\settings.py
 .biblioteka\__pycache__\
+/biblioteka/settings.py

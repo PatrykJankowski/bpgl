@@ -234,6 +234,22 @@ li:nth-child(8) .post {
     background-color: #333;
 }
 
+li:nth-child(9) .post {
+    background-color: #4D4D4D;
+}
+
+li:nth-child(10) .post {
+    background-color: #333;
+}
+
+li:nth-child(11) .post {
+    background-color: #676767;
+}
+
+li:nth-child(12) .post {
+    background-color: #F17E01;
+}
+
 li .post {
     background-color: #4D4D4D;
 }

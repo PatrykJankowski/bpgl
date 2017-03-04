@@ -94,11 +94,11 @@ WSGI_APPLICATION = 'biblioteka.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': '',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
-        'PORT': '',
+        'NAME': 'strzepcz_bpgl',
+        'USER': 'strzepcz_bpgl',
+        'PASSWORD': 'sRt7hUg3g^d$',
+        'HOST': 'ssd3.linuxpl.com',
+        'PORT': '5432',
     }
 }
 

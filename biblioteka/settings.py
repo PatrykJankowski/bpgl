@@ -91,16 +91,28 @@ WSGI_APPLICATION = 'biblioteka.wsgi.application'
 #    }
 #}
 
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.postgresql',
+#        'NAME': 'bpgl_2',
+#        'USER': 'bpgl_2',
+#        'PASSWORD': 'Krasnal1',
+#        'HOST': 'sql.bpgl.nazwa.pl',
+#        'PORT': '5432',
+#    }
+#}
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'bpgl_2',
-        'USER': 'bpgl_2',
-        'PASSWORD': 'Krasnal1',
-        'HOST': 'sql.bpgl.nazwa.pl',
+        'NAME': 'strzepcz_bpgl',
+        'USER': 'strzepcz_bpgl',
+        'PASSWORD': 'sRt7hUg3g^d$',
+        'HOST': '127.0.0.1',
         'PORT': '5432',
     }
 }
+
 
 SOUTH_DATABASE_ADAPTERS = {
     #'default': 'south.db.sqlite3'

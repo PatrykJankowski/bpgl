@@ -3,13 +3,14 @@
 
 {% block content %}
 
-    <div class="container list-all">
-
+    <div id="wpisy" class="container list-all">
 
           <div class="row">
 
           <h2>Więcej wpisów...</h2>
-<ul class="list">
+
+              <ul class="list">
+
               {% for post in list %}
                       <li class="col-md-3">
                       <div class="post">
@@ -47,8 +48,21 @@
                       </div>
                       </li>
             {% endfor %}
-</ul>
-            </div><!--/span-->
+
+            </ul>
+
+          </div><!--/span-->
+<ul class="pagination"></ul>
+          <script src="http://listjs.com/assets/javascripts/list.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
+<script>
+    var newsList = new List('wpisy', {
+  valueNames: ['post'],
+  page: 12,
+  plugins: [ ListPagination({}) ]
+});
+
+</script>
 
 </div>
 

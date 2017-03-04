@@ -108,7 +108,11 @@ DATABASES = {
         'NAME': 'strzepcz_bpgl',
         'USER': 'strzepcz_bpgl',
         'PASSWORD': 'sRt7hUg3g^d$',
+<<<<<<< HEAD
         'HOST': '127.0.0.1',
+=======
+        'HOST': 'ssd3.linuxpl.com',
+>>>>>>> eeac178099b7948797af8e859a4c6c4861ea62b6
         'PORT': '5432',
     }
 }

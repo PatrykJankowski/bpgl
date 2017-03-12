@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/pitax.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/pitax.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_list.html" afterPath="$PROJECT_DIR$/templates/post_list.html" />
     </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,8 +92,8 @@
       <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="322" column="30" lean-forward="true" selection-start-line="322" selection-start-column="30" selection-end-line="322" selection-end-column="30" />
+            <state relative-caret-position="446">
+              <caret line="328" column="14" lean-forward="true" selection-start-line="328" selection-start-column="14" selection-end-line="328" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -713,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485708309809</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="wspolpraca - logo pitax">
+      <created>1489307458929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489307458929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -766,7 +771,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="slider" />
     <MESSAGE value="pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="pagination" />
+    <MESSAGE value="wspolpraca - logo pitax" />
+    <option name="LAST_COMMIT_MESSAGE" value="wspolpraca - logo pitax" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1083,8 +1089,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="322" column="30" lean-forward="true" selection-start-line="322" selection-start-column="30" selection-end-line="322" selection-end-column="30" />
+        <state relative-caret-position="446">
+          <caret line="328" column="14" lean-forward="true" selection-start-line="328" selection-start-column="14" selection-end-line="328" selection-end-column="14" />
           <folding />
         </state>
       </provider>

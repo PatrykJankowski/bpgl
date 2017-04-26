@@ -65,7 +65,7 @@ def post_detail(request, slug):
                                                         request.GET.get('textField')})
 
         # this is the equivalent of running
-        #     EmployeeDetails.objects.filter(keyword=request.GET['textField'])
+        #    EmployeeDetails.objects.filter(keyword=request.GET['textField'])
 
     context = {
         "instance": instance,

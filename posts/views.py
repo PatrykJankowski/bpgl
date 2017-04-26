@@ -109,7 +109,7 @@ def list(request):
     if query_tag:
         list = list.filter(tag__slug__icontains=query_tag)
 
-    paginator = Paginator(list, 96)  # Show 25 contacts per page
+    paginator = Paginator(list, 192)
     page = request.GET.get('page')
 
     try:

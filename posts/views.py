@@ -37,7 +37,7 @@ def post_list(request):
     paginator_books = Paginator(books, 12)
     page = request.GET.get('page')
 
-    path = "/slider/"  # insert the path to your directory
+    path = ""  # insert the path to your directory
     img_list = os.listdir(path)
 
     try:

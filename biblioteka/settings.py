@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'pytz',
     'photologue',
     'sortedm2m',
+
+    'django_cleanup'
 ]
 
 SITE_ID = 1

@@ -48,10 +48,7 @@ class Post(models.Model):
 
 
 class Slider(models.Model):
-    slug = models.SlugField(unique=True)
-    image = models.ImageField(upload_to=upload_location,
-                              null=True,
-                              blank=True)
+    image = models.ImageField(upload_to='slider/%Y/%m/%d/')
 
     def __str__(self):
         return self.slug

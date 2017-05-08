@@ -145,3 +145,9 @@ def list(request):
 #   slider = paginator.page(paginator.num_pages)
 
 #    return render(request, 'slider.html', {'slider': slider})
+
+
+def slider(request):
+    path="slider"  # insert the path to your directory
+    img_list = os.listdir(path)
+    return img_list

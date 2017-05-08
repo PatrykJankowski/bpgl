@@ -49,7 +49,7 @@ class Post(models.Model):
 
 class Slider(models.Model):
     slug = models.SlugField(unique=True)
-    image = models.ImageField(upload_to='slider/%Y/%m/%d/')
+    image = models.ImageField(upload_to='slider/')
 
     def __str__(self):
         return self.slug

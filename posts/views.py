@@ -150,4 +150,4 @@ def list(request):
 def slider(request):
     path="slider"  # insert the path to your directory
     img_list = os.listdir(path)
-    return img_list
+    return render_to_response('post_list.html', {'images': img_list})

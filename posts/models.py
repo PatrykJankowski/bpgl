@@ -57,7 +57,7 @@ class Slider(models.Model):
         return self.slug
 
     def get_absolute_url(self):
-        return reverse("slider", kwargs={"slug": self.slug})
+        return reverse("posts::slider", kwargs={"slug": self.slug})
 
 
 class Category(models.Model):

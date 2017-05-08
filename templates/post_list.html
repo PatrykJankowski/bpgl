@@ -55,7 +55,7 @@ $("#navbar a").on('click', function(event) {
       <div class="carousel-inner">
 
           {% for image in paths %}
-              {% if image == paths.0 %}
+              {% if forloop.first %}
                 <div class="item active">
               {% else %}
                 <div class="item">

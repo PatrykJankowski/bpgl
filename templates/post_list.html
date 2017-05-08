@@ -55,7 +55,12 @@ $("#navbar a").on('click', function(event) {
       <div class="carousel-inner">
 
           {% for image in paths %}
-              <div class="item active">
+              {% if image.0 %}
+                <div class="item active">
+              {% else %}
+                <div class="item">
+              {% endif %}
+              <div class="item">
                 <img src="{{image}}" alt="slider">
                 <div class="carousel-caption">
                 <!--  <h3>Heading</h3>  -->

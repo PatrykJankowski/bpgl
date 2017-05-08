@@ -43,7 +43,7 @@ def post_list(request):
 
 
     paths = []
-    for pth in Path('.').iterdir():
+    for pth in Path('/home/strzepcz/biblioteka/media/slider/media').iterdir():
         paths.append(pth)
 
     try:

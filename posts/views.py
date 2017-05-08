@@ -37,8 +37,8 @@ def post_list(request):
     paginator_books = Paginator(books, 12)
     page = request.GET.get('page')
 
-    path = ""  # insert the path to your directory
-    img_list = os.listdir(path)
+    #path = ""  # insert the path to your directory
+    #img_list = os.listdir(path)
 
     try:
         posts = paginator.page(page)
@@ -56,7 +56,7 @@ def post_list(request):
     except EmptyPage:
         books = paginator_books.page(paginator_books.num_pages)
 
-    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library, 'images': img_list})
+    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library})
 
 
 def post_detail(request, slug):

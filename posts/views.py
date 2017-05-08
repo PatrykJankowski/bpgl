@@ -41,6 +41,7 @@ def post_list(request):
     #path = ""  # insert the path to your directory
     #img_list = os.listdir(path)
 
+
     paths = []
     for pth in Path('.').iterdir():
         paths.append(pth)

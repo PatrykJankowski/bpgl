@@ -4,7 +4,7 @@ from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from .models import Post
 from .forms import PostForm
 from django.db.models import Q
-
+import os
 
 def post_create(request):
     #if not request.user.is_staff or not request.user.is_superuser:

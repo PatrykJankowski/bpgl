@@ -37,6 +37,9 @@ def post_list(request):
     paginator_books = Paginator(books, 12)
     page = request.GET.get('page')
 
+    path = "http://bpgl.pl/media/slider/"  # insert the path to your directory
+    img_list = os.listdir(path)
+
     try:
         posts = paginator.page(page)
     except PageNotAnInteger:
@@ -53,7 +56,7 @@ def post_list(request):
     except EmptyPage:
         books = paginator_books.page(paginator_books.num_pages)
 
-    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library})
+    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library, 'images': img_list})
 
 
 def post_detail(request, slug):
@@ -145,9 +148,3 @@ def list(request):
 #   slider = paginator.page(paginator.num_pages)
 
 #    return render(request, 'slider.html', {'slider': slider})
-
-
-def slider(request):
-    path="slider"  # insert the path to your directory
-    img_list = os.listdir(path)
-    return render_to_response('post_list.html', {'images': img_list})

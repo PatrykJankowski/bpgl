@@ -47,6 +47,19 @@ class Post(models.Model):
         ordering = ["-published"]
 
 
+class Slider(models.Model):
+    slug = models.SlugField(unique=True)
+    image = models.ImageField(upload_to=upload_location,
+                              null=True,
+                              blank=True)
+
+    def __str__(self):
+        return self.slug
+
+    def get_absolute_url(self):
+        return reverse("slider", kwargs={"slug": self.slug})
+
+
 class Category(models.Model):
     title = models.CharField(max_length=120)
     slug = models.SlugField(unique=True)

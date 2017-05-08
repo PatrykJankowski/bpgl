@@ -122,3 +122,26 @@ def list(request):
         list = paginator.page(paginator.num_pages)
 
     return render(request, 'list.html', {'list': list})
+
+
+#def slider(request):
+    #    slider = Post.objects
+
+    #query = request.GET.get("q")
+    #if query:
+#     posts = slider.filter(category__title__icontains=query)
+
+
+#paginator = Paginator(slider, 12)
+#   page = request.GET.get('page')
+
+    #   try:
+#   slider = paginator.page(page)
+ #   except PageNotAnInteger:
+#       # If page is not an integer, deliver first page.
+#      slider = paginator.page(1)
+ #   except EmptyPage:
+    #      # If page is out of range (e.g. 9999), deliver last page of results.
+#   slider = paginator.page(paginator.num_pages)
+
+#    return render(request, 'slider.html', {'slider': slider})

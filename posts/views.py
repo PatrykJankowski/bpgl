@@ -42,7 +42,7 @@ def post_list(request):
     #img_list = os.listdir(path)
 
     paths = []
-    for pth in Path.cwd().iterdir():
+    for pth in Path('/media/slider').iterdir():
         paths.append(pth)
 
     try:

@@ -5,6 +5,7 @@ from .models import Post
 from .forms import PostForm
 from django.db.models import Q
 import os
+from pathlib import Path
 
 def post_create(request):
     #if not request.user.is_staff or not request.user.is_superuser:
@@ -40,6 +41,10 @@ def post_list(request):
     #path = ""  # insert the path to your directory
     #img_list = os.listdir(path)
 
+    paths = []
+    for pth in Path.cwd().iterdir():
+        paths.append(pth)
+
     try:
         posts = paginator.page(page)
     except PageNotAnInteger:
@@ -56,7 +61,7 @@ def post_list(request):
     except EmptyPage:
         books = paginator_books.page(paginator_books.num_pages)
 
-    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library})
+    return render(request, 'post_list.html', {'posts': posts, 'books': books, 'library': library, 'paths': paths}) #'images': img_list
 
 
 def post_detail(request, slug):

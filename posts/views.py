@@ -118,7 +118,7 @@ def list(request):
     if query_tag:
         list = list.filter(tag__slug__icontains=query_tag)
 
-    paginator = Paginator(list, 192)
+    paginator = Paginator(list, 240)
     page = request.GET.get('page')
 
     try:

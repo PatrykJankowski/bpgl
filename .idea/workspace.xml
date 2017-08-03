@@ -1,8 +1,685 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="">
+    <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="admin slider">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00304.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00304.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00320.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00320.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00323.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00323.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00326.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00326.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00327.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00327.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00327_EodZXcS.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00327_EodZXcS.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00328.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00328.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00329.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00329.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00331.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00331.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00332.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00332.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00353.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00353.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00356.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00356.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00361.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00361.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00364.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00364.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00368.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00368.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00369.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00369.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00370.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00370.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00371.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00371.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00381.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00381.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00384.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00384.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00394.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00394.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00407.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00407.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00407_Q27tiTb.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00407_Q27tiTb.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00418.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00418.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00426.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00426.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00428.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00428.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00431.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00431.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00432.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00432.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00433.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00433.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00434.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00434.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00434_2ZYtGdc.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00434_2ZYtGdc.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00435.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00435.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00436.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00436.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00437.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00437.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00438.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00438.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00439.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00439.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00440.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00440.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00441.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00441.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00442.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00442.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00444.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00444.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00446.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00446.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00567.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00567.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00571.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00571.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00573.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00573.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00589.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00589.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00593.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00593.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00597.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00597.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00602.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00602.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00608.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00608.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00613.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00613.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00617.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00617.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00687.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00687.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00712.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00712.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00715.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00715.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00716.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00716.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00719.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00719.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00719_7Ych5ta.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00719_7Ych5ta.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00726.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00726.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00732.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00732.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00733.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00733.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00747.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00747.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00754.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00754.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00758.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00758.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00806.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00806.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00808.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00808.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00809.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00809.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00814.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00814.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00836.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00836.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00844.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00844.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00853.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00853.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00858.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00858.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00863.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00863.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00867.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00867.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00870.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00870.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00871.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00871.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00873.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00873.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00875.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00875.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00877.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00877.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00879.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00879.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00880.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00880.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00885.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00885.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00887.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00887.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00896.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00896.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00897.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00897.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00898.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00898.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00898_c1HKUyw.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00898_c1HKUyw.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00899.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00899.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00910.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00910.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00915.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00915.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00918.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00918.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00922.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00922.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00925.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00925.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00926.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00926.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00931.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00931.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00932.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00932.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00932_ECXtkiW.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00932_ECXtkiW.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00944.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00944.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00947.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00947.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00949.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00949.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00954.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00954.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00960.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00960.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00961.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00961.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00962.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00962.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00964.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00964.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00966.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00966.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00966_G7WxvUr.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00966_G7WxvUr.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00968.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00968.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00968_c1ww2Gj.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00968_c1ww2Gj.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00969.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00969.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00970.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00970.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00971.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00971.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00972.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00972.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00975.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00975.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00976.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00976.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00980.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00980.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00981.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00981.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00983.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00983.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00984.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00984.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00988.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00988.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00988_k98q7DQ.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00988_k98q7DQ.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00991.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00991.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00992.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00992.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01000.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01000.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01003.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01003.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01009.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01009.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01011.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01011.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01015.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01015.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01017.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01017.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01020.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01020.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01024.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01024.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01025.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01025.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01029.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01029.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01067.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01067.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01069.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01069.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01071.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01071.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01072.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01072.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01075.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01075.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01076.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01076.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01080.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01080.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01082.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01082.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01085.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01085.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01091.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01091.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01092.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01092.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01103.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01103.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01105.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01105.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01106.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01106.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01109.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01109.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01113.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01113.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01115.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01115.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01120.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01120.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01122.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01122.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01128.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01128.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01129.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01129.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01133.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01133.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01136.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01136.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01139.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01139.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01151.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01151.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01154.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01154.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01159.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01159.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01162.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01162.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01167.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01167.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01169.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01169.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01173.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01173.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01175.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01175.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01182.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01182.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01188.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01188.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01193.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01193.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01195.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01195.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01195_FfAUR2Y.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01195_FfAUR2Y.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01199.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01199.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01208.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01208.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01215.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01215.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01219.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01219.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01227.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01227.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01227_Zq3b8Jk.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01227_Zq3b8Jk.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01230.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01230.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01233.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01233.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01235.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01235.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01235_ry5AkVy.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01235_ry5AkVy.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01238.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01238.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01239.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01239.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01240.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01240.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01242.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01242.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01243.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01243.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01254.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01254.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01256.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01256.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01296.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01296.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01304.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01304.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01310.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01310.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01313.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01313.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01314a.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01314a.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01316a.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01316a.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01321a.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01321a.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01323a.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01323a.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01329.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01329.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01330.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01330.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01331.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01331.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01454.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01454.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01456.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01456.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01457.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01457.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01458.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01458.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01459.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01459.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01460.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01460.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01461.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01461.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01473.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01473.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01477.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01477.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01493.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01493.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01502.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01502.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01508.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01508.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01518.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01518.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01528.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01528.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01592.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01592.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01594.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01594.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01603.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01603.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01604.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01604.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01607.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01607.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01608.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01608.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01623.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01623.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01631.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01631.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01637.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01637.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01647.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01647.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01661.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01661.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01667.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01667.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01679.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01679.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01686.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01686.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01709.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01709.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01711.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01711.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01717.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01717.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01720.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01720.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01760.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01760.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01768.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01768.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01776.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01776.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01778.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01778.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01784.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01784.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01787.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01787.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01794.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01794.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01804.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01804.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01815.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01815.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01819.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01819.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01835.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01835.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01840.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01840.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01844.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01844.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01868.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01868.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01870.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01870.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01878.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01878.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01879.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01879.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01881.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01881.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01884.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01884.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01900.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01900.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01901.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01901.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01908.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01908.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01910.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01910.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01912.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01912.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01921.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01921.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01923.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01923.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01934.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01934.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01946.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01946.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01947.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01947.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01949.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01949.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01950.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01950.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01954.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01954.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC01959.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC01959.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02008.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02008.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02023.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02023.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02040.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02040.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02061.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02061.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02079.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02079.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02093.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02093.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02097.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02097.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02098.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02098.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02099.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02099.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02105.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02105.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02109.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02109.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02111.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02111.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02117.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02117.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02120.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02120.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02124.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02124.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02142.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02142.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02151.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02151.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02297.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02297.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02301.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02301.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02310.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02310.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02323.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02323.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02330.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02330.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02332.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02332.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02421.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02421.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02422.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02422.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02423.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02423.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02427.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02427.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02432.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02432.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02435.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02435.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02444.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02444.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02455.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02455.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02474.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02474.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02507.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02507.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02571.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02571.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02586.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02586.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02597.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02597.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02616.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02616.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02727.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02727.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02752.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02752.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02756.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02756.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02764.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02764.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02766.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02766.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02772.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02772.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02773.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02773.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02775.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02775.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02776.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02776.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC02829.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC02829.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC03805.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC03805.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC03813.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC03813.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC05914.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC05914.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07857.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07857.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07858.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07858.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07862.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07862.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07866.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07866.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07869.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07869.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07881.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07881.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07895.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07895.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07929.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07929.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC07972.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC07972.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCF3518.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCF3518.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0056.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0056.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0085.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0085.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0115.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0115.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0116.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0116.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0117.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0117.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0227.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0227.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0229.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0229.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0230.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0230.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0232.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0232.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0323.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0323.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCI0325.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCI0325.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1434.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1434.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1437.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1437.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1445.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1445.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1446.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1446.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1447.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1447.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1449.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1449.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1453.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1453.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1454.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1454.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1455.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1455.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1456.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1456.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1465.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1465.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1468.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1468.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1469.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1469.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN1547.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN1547.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN3078.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN3078.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN3114.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN3114.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN3129.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN3129.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN3156.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN3156.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSCN3164.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSCN3164.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0538.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0538.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0551.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0551.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0832.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0832.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0857.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0857.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0866.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0866.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0886.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0886.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC_0891.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC_0891.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/Dziewczyny_jedziemy_do_Linii.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/Dziewczyny_jedziemy_do_Linii.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0402.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0402.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0405.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0405.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0425.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0425.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0431.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0431.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0455.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0455.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0487.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0487.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0509.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0509.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0514.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0514.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0522.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0522.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0523.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0523.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0527.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0527.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0529.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0529.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0531.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0531.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0532.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0532.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0533.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0533.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0535.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0535.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0538.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0538.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0544.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0544.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0547.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0547.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0555.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0555.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0558.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0558.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0579.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0579.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0581.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0581.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0584.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0584.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0606.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0606.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0613.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0613.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0624.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0624.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0630.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0630.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0656.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0656.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0659.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0659.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0661.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0661.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0674.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0674.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0690.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0690.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0704.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0704.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0713.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0713.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0718.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0718.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0722.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0722.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0723.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0723.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0728.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0728.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0750.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0750.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0752.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0752.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0753.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0753.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0754.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0754.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0755.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0755.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0759.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0759.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0760.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0760.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0762.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0762.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0766.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0766.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0767.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0767.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0773.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0773.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0787.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0787.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0788.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0788.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0789.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0789.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0856.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0856.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_0963.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_0963.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1011.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1011.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1012.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1012.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1023.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1023.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1024.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1024.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1040.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1040.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1045.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1045.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1073.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1073.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1083.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1083.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1089.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1089.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1138.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1138.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1140.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1140.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1148.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1148.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1150.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1150.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1156.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1156.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1157.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1157.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1163.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1163.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1164.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1164.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1175.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1175.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1178.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1178.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1183.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1183.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1186.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1186.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1188.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1188.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1192.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1192.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1196.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1196.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1199.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1199.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1206.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1206.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1208.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1208.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1210.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1210.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1213.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1213.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1215.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1215.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1217.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1217.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1218.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1218.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1227.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1227.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1234.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1234.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1237.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1237.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1238.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1238.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1242.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1242.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1244.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1244.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1247.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1247.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1248.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1248.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1256.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1256.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1258.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1258.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1263.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1263.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1265.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1265.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1266.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1266.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1269.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1269.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1270.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1270.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1386.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1386.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1389.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1389.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1433.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1433.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1438.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1438.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1439.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1439.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1445.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1445.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1447.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1447.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1450.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1450.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1452.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1452.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1455.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1455.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1463.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1463.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1468.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1468.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1472.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1472.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1477.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1477.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1479.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1479.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1517.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1517.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1556.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1556.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1561.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1561.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1566.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1566.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1569.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1569.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1573.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1573.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1574.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1574.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1582.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1582.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1583.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1583.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1594.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1594.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1623.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1623.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1625.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1625.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1629.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1629.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1631.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1631.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1640.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1640.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1651.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1651.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1664.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1664.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1669.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1669.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1673.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1673.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1686.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1686.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1690.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1690.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1693.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1693.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1694.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1694.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1698.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1698.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1702.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1702.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1703.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1703.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1705.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1705.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1706.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1706.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1707.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1707.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1709.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1709.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1711.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1711.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1714.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1714.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_1715.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_1715.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_20140504_113832.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_20140504_113832.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2389.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2389.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2406.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2406.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2415.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2415.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2458.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2458.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2463.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2463.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2490.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2490.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2495.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2495.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2504.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2504.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2526.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2526.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2569.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2569.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2593.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2593.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2622.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2622.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2629.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2629.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2652.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2652.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2703.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2703.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2705.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2705.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2720.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2720.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2727.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2727.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2750.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2750.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2786.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2786.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_2816.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_2816.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8495.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8495.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8496.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8496.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8498.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8498.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8523.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8523.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8551.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8551.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8558.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8558.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/IMG_8559.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/IMG_8559.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/Lafia_czyta_Quo_Vadis_w_piknych_okolicznoyciach_przyrody_w_Ktrzynie.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/Lafia_czyta_Quo_Vadis_w_piknych_okolicznoyciach_przyrody_w_Ktrzynie.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/Najlepsze_w_czasie_wolnym_sN_rolki.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/Najlepsze_w_czasie_wolnym_sN_rolki.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/OstrzeeniePierwszestwo_ma_ksiNka.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/OstrzeeniePierwszestwo_ma_ksiNka.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/P5110011.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/P5110011.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/P5110065.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/P5110065.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/P5110085.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/P5110085.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/P5110096.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/P5110096.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/P5110098.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/P5110098.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0049.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0049.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0051.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0051.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0052.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0052.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0053.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0053.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0056.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0056.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0059.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0059.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0063.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0063.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0066.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0066.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0070.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0070.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0072.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0072.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/SDC12633.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/SDC12633.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/Tu_si_czyta_najlepiej.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/Tu_si_czyta_najlepiej.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01011_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01011_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01011_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01011_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01011_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01011_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01262_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01262_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01262_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01262_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01262_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01262_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01331_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01331_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01331_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01331_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01331_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01331_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01334_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01334_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01334_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01334_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01334_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01334_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01338_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01338_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01338_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01338_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01338_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01338_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01456_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01456_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01456_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01456_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01456_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01456_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01460_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01460_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01460_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01460_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01460_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC01460_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC02124_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC02124_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC02124_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC02124_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC02124_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC02124_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0049_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0049_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0049_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0049_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0049_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0049_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0256_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0256_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0256_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0256_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0256_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0256_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0315_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0315_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0315_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0315_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0315_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0315_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0526_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0526_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0526_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0526_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0526_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0526_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0532_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0532_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0532_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0532_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0532_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0532_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0538_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0538_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0538_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0538_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0538_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0538_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0637_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0637_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0637_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0637_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0637_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0637_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0645_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0645_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0645_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0645_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0645_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0645_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0652_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0652_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0652_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0652_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0652_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0652_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0655_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0655_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0655_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0655_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0655_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0655_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0692_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0692_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0692_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0692_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0692_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0692_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0697_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0697_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0697_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0697_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0697_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0697_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0832_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0832_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0832_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0832_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0832_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0832_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0844_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0844_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0844_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0844_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0844_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0844_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0857_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0857_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0857_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0857_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0857_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0857_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0866_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0866_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0866_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0866_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0866_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0866_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0886_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0886_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0886_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0886_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0886_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0886_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0891_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0891_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0891_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0891_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0891_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0891_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0947_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0947_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0947_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0947_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0947_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC_0947_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0058_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0058_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0058_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0058_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0058_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0058_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0096_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0096_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0096_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0096_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0096_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0096_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0100_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0100_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0100_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0100_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0100_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0100_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0101_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0101_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0101_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0101_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0101_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0101_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc00381_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc00381_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc00381_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc00381_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc00381_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc00381_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0070_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0070_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0070_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0070_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0070_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0070_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0107_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0107_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0107_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0107_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0107_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0107_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0151_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0151_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0151_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0151_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0151_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0151_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0416_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0416_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0416_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0416_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0416_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0416_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0445_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0445_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0445_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0445_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0445_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0445_thumbnail.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/views.py" afterPath="$PROJECT_DIR$/posts/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_list.html" afterPath="$PROJECT_DIR$/templates/post_list.html" />
     </list>
     <ignored path="biblioteka.iws" />
@@ -26,72 +703,7 @@
     <favorites_list name="biblioteka" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/post_list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="69" column="51" lean-forward="false" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post_detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -195,8 +807,8 @@
         <option value="$PROJECT_DIR$/posts/admin.py" />
         <option value="$PROJECT_DIR$/posts/models.py" />
         <option value="$PROJECT_DIR$/biblioteka/settings.py" />
-        <option value="$PROJECT_DIR$/posts/views.py" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
+        <option value="$PROJECT_DIR$/posts/views.py" />
       </list>
     </option>
   </component>
@@ -208,7 +820,6 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
@@ -917,7 +1528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494251291664</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="admin slider">
+      <created>1494251388768</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1494251388768</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView">
@@ -930,10 +1548,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1932" height="1056" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20032051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20886752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4957265" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1188,7 +1805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1196,7 +1812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4063">
           <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1204,7 +1819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8789">
           <caret line="517" column="1" lean-forward="false" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +1826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +1833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,7 +1840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,9 +1847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1246,7 +1854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1255,7 +1862,7 @@
         <state relative-caret-position="85">
           <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1276,55 +1883,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
+    <entry file="file://$PROJECT_DIR$/posts/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="69" column="51" lean-forward="false" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="51" />
+        <state relative-caret-position="-770">
+          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1216">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
+        <state relative-caret-position="646">
           <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
+    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        <state relative-caret-position="736">
+          <caret line="283" column="62" lean-forward="false" selection-start-line="283" selection-start-column="62" selection-end-line="283" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/models.py">
+    <entry file="file://$PROJECT_DIR$/biblioteka/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="454">
+          <caret line="69" column="51" lean-forward="false" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        <state relative-caret-position="529">
+          <caret line="120" column="36" lean-forward="true" selection-start-line="120" selection-start-column="36" selection-end-line="120" selection-end-column="36" />
           <folding>
-            <element signature="e#0#86#0" expanded="true" />
+            <element signature="e#0#86#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>

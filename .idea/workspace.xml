@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="admin slider">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/1.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/2.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/3.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/5.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/6.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/7.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/8.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/9.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/static/img/kraszewski.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/posts/static/img/mkidn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/kraszewski.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/mkidn.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00304.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00304.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00320.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00320.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00323.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00323.JPG" />
@@ -569,30 +565,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0072.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0072.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/SDC12633.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/SDC12633.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/Tu_si_czyta_najlepiej.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/Tu_si_czyta_najlepiej.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/1_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/1_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/1_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/1_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/1_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/1_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/2_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/2_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/2_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/2_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/2_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/2_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/3_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/3_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/3_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/3_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/3_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/3_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/5_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/5_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/5_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/5_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/5_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/5_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/6_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/6_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/6_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/6_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/6_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/6_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/7_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/7_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/7_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/7_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/7_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/7_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/8_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/8_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/8_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/8_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/8_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/8_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/9_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/9_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/9_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/9_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/9_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/9_thumbnail.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_admin_thumbnail.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_display.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_thumbnail.JPG" />
@@ -692,18 +664,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_admin_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_display.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_thumbnail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/dsc_0853.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/dsc_0853.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/dsc_0877.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/dsc_0877.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_list.html" afterPath="$PROJECT_DIR$/templates/post_list.html" />
     </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -731,7 +692,7 @@
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="326" column="61" lean-forward="true" selection-start-line="326" selection-start-column="61" selection-end-line="326" selection-end-column="61" />
+              <caret line="326" column="61" lean-forward="false" selection-start-line="326" selection-start-column="61" selection-end-line="326" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -751,7 +712,7 @@
         <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="366">
-              <caret line="277" column="21" lean-forward="true" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
+              <caret line="277" column="21" lean-forward="false" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -974,6 +935,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1007,6 +986,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1060,13 +1061,14 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Strony\biblioteka\posts\static\img" />
+      <recent name="G:\Dokumenty\Strony www\biblioteka\posts\static\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="Z:\Strony\biblioteka\static\img" />
       <recent name="Z:\Strony\biblioteka\posts\static\img" />
       <recent name="Z:\Strony\biblioteka\static\js" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Dokumenty\Strony www\biblioteka\posts\static\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1688,9 +1690,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21314102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21314102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4957265" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2051,7 +2052,7 @@
     <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="326" column="61" lean-forward="true" selection-start-line="326" selection-start-column="61" selection-end-line="326" selection-end-column="61" />
+          <caret line="326" column="61" lean-forward="false" selection-start-line="326" selection-start-column="61" selection-end-line="326" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -2067,7 +2068,7 @@
     <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
-          <caret line="277" column="21" lean-forward="true" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
+          <caret line="277" column="21" lean-forward="false" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
           <folding />
         </state>
       </provider>

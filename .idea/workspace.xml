@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="053f4903-9273-41b3-9755-c9ef7eff376b" name="Default" comment="admin slider">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/1.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/2.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/3.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/5.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/6.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/7.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/8.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/9.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00304.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00304.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00320.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00320.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/DSC00323.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/DSC00323.JPG" />
@@ -561,6 +569,30 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/PICT0072.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/PICT0072.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/SDC12633.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/SDC12633.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/Tu_si_czyta_najlepiej.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/Tu_si_czyta_najlepiej.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/1_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/1_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/1_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/1_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/1_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/1_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/2_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/2_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/2_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/2_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/2_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/2_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/3_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/3_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/3_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/3_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/3_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/3_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/5_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/5_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/5_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/5_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/5_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/5_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/6_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/6_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/6_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/6_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/6_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/6_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/7_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/7_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/7_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/7_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/7_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/7_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/8_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/8_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/8_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/8_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/8_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/8_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/9_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/9_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/9_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/9_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/9_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/9_thumbnail.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_admin_thumbnail.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_display.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/DSC00997_thumbnail.JPG" />
@@ -660,6 +692,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0853_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_admin_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_admin_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_display.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_display.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_thumbnail.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/dsc_0877_thumbnail.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/dsc_0853.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/dsc_0853.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/dsc_0877.jpg" afterPath="$PROJECT_DIR$/media/photologue/photos/dsc_0877.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/post_list.html" afterPath="$PROJECT_DIR$/templates/post_list.html" />
     </list>
     <ignored path="biblioteka.iws" />
@@ -684,11 +727,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="307" column="138" lean-forward="true" selection-start-line="307" selection-start-column="138" selection-end-line="307" selection-end-column="138" />
+            <state relative-caret-position="192">
+              <caret line="326" column="61" lean-forward="true" selection-start-line="326" selection-start-column="61" selection-end-line="326" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="277" column="18" lean-forward="false" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="277" column="21" lean-forward="true" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -704,7 +767,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="2193">
               <caret line="136" column="26" lean-forward="false" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="26" />
               <folding />
             </state>
@@ -714,7 +777,7 @@
       <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="680">
               <caret line="40" column="55" lean-forward="false" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="55" />
               <folding />
             </state>
@@ -734,7 +797,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>gall</find>
       <find>pagi</find>
       <find>list</find>
       <find>scr</find>
@@ -764,6 +826,7 @@
       <find>os</find>
       <find>post</find>
       <find>jpg</find>
+      <find>wspar</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -818,8 +881,6 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/slack.py" />
         <option value="$PROJECT_DIR$/templates/list.html" />
-        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/templates/post_detail.html" />
         <option value="$PROJECT_DIR$/posts/admin.py" />
@@ -827,6 +888,8 @@
         <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/posts/views.py" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/posts/static/css/style.css" />
       </list>
     </option>
   </component>
@@ -907,7 +970,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biblioteka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1569,7 +1690,7 @@
     <frame x="-8" y="0" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20886752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21314102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4957265" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50427353" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1808,7 +1929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1823,20 +1943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4063">
-          <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8789">
-          <caret line="517" column="1" lean-forward="false" selection-start-line="517" selection-start-column="1" selection-end-line="517" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1897,7 +2003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="77" column="7" lean-forward="false" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1905,9 +2010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-770">
           <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1915,7 +2017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1216">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1923,7 +2024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
           <caret line="69" column="51" lean-forward="false" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1934,7 +2034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="2193">
           <caret line="136" column="26" lean-forward="false" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="26" />
           <folding />
         </state>
@@ -1942,7 +2042,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="680">
           <caret line="40" column="55" lean-forward="false" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="55" />
           <folding />
         </state>
@@ -1950,8 +2050,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="307" column="138" lean-forward="true" selection-start-line="307" selection-start-column="138" selection-end-line="307" selection-end-column="138" />
+        <state relative-caret-position="192">
+          <caret line="326" column="61" lean-forward="true" selection-start-line="326" selection-start-column="61" selection-end-line="326" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="277" column="18" lean-forward="false" selection-start-line="277" selection-start-column="18" selection-end-line="277" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="277" column="21" lean-forward="true" selection-start-line="277" selection-start-column="21" selection-end-line="277" selection-end-column="21" />
           <folding />
         </state>
       </provider>

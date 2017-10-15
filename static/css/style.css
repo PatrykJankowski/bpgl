@@ -414,6 +414,10 @@ h3 a {
     color: #333;
 }
 
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
 .thumbnail {
     display: inline-block;
 }

@@ -414,7 +414,7 @@ h3 a {
     color: #333;
 }
 
-.navbar-inverse .navbar-toggle .icon-bar :hover {
+.navbar-inverse .navbar-toggle .icon-bar:hover {
     background-color: #fff;
 }
 

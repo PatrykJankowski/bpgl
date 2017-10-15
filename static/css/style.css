@@ -124,7 +124,7 @@ nav {
 }
 
 .navbar .navbar-brand img {
-    height: 60px;
+    height: 58px;
     padding: 9px;
 }
 
@@ -276,6 +276,7 @@ li:nth-child(3) .link:hover {
 
 #wsparcie img {
     max-height: 54px;
+    margin: 20px auto;
 }
 
 .biblioteka {
@@ -515,4 +516,12 @@ footer > .container > .row > div img {
 
 footer span {
     margin-left: 25px;
+}
+
+@media (max-width:767px){
+    .navbar-nav {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
 }

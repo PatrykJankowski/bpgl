@@ -660,9 +660,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_admin_thumbnail.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_display.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" afterPath="$PROJECT_DIR$/media/photologue/photos/cache/IMG_0225_thumbnail.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/style.css" afterPath="$PROJECT_DIR$/posts/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/posts/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/posts/static/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
     </list>
     <ignored path="biblioteka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -699,28 +698,28 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/static/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="4" column="75806" lean-forward="true" selection-start-line="4" selection-start-column="75806" selection-end-line="4" selection-end-column="75806" />
+            <state relative-caret-position="192">
+              <caret line="4" column="76244" lean-forward="false" selection-start-line="4" selection-start-column="76244" selection-end-line="4" selection-end-column="76244" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="4" column="76509" lean-forward="false" selection-start-line="4" selection-start-column="76484" selection-end-line="4" selection-end-column="76509" />
+            <state relative-caret-position="141">
+              <caret line="4" column="75748" lean-forward="false" selection-start-line="4" selection-start-column="75748" selection-end-line="4" selection-end-column="75748" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="278" column="22" lean-forward="true" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
+              <caret line="278" column="22" lean-forward="false" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -800,12 +799,12 @@
       <find>wspar</find>
       <find>icon-bar</find>
       <find>.navbar-toggle</find>
-      <find>.navbar-inverse .navbar-toggle .icon-bar</find>
       <find>.navbar-inverse .navbar-toggle</find>
       <find>img</find>
       <find>max-w</find>
       <find>.navbar .navbar-brand img</find>
       <find>ws</find>
+      <find>.navbar-inverse .navbar-toggle .icon-bar</find>
     </findStrings>
     <replaceStrings>
       <replace>list</replace>
@@ -866,10 +865,10 @@
         <option value="$PROJECT_DIR$/biblioteka/settings.py" />
         <option value="$PROJECT_DIR$/posts/views.py" />
         <option value="$PROJECT_DIR$/templates/post_list.html" />
-        <option value="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/posts/static/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/posts/static/css/style.css" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/posts/static/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/static/css/bootstrap.min.css" />
       </list>
     </option>
   </component>
@@ -1708,7 +1707,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1047" extended-state="1" />
+    <frame x="-8" y="0" width="1932" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21741453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2077,22 +2076,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="4" column="75806" lean-forward="true" selection-start-line="4" selection-start-column="75806" selection-end-line="4" selection-end-column="75806" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="4" column="76509" lean-forward="false" selection-start-line="4" selection-start-column="76484" selection-end-line="4" selection-end-column="76509" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -2104,7 +2087,23 @@
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="278" column="22" lean-forward="true" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
+          <caret line="278" column="22" lean-forward="false" selection-start-line="278" selection-start-column="22" selection-end-line="278" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="4" column="76244" lean-forward="false" selection-start-line="4" selection-start-column="76244" selection-end-line="4" selection-end-column="76244" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="4" column="75748" lean-forward="false" selection-start-line="4" selection-start-column="75748" selection-end-line="4" selection-end-column="75748" />
           <folding />
         </state>
       </provider>

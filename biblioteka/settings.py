@@ -23,10 +23,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '&mt!w_-38o$n07*^w=l=j00f44dxje32c*ie#*e9-ijm9or9ct'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 #TEMPLATE_DEBUG = DEBUG
 
 ALLOWED_HOSTS = ['bpgl.pl', 'www.bpgl.pl', 'ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost', '54.93.54.71', 'strzepcz.ssd-linuxpl.com']
+
+SECURE_SSL_REDIRECT = True
 
 # Application definition
 
@@ -49,8 +51,6 @@ INSTALLED_APPS = [
 
     'django_cleanup'
 ]
-
-SECURE_SSL_REDIRECT = True
 
 SITE_ID = 1
 

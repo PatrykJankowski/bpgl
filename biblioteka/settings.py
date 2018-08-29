@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     'django_cleanup'
 ]
 
+SECURE_SSL_REDIRECT = True
+
 SITE_ID = 1
 
 MIDDLEWARE = [

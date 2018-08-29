@@ -26,6 +26,8 @@ SECRET_KEY = '&mt!w_-38o$n07*^w=l=j00f44dxje32c*ie#*e9-ijm9or9ct'
 DEBUG = True
 #TEMPLATE_DEBUG = DEBUG
 
+SECURE_SSL_REDIRECT = True
+
 ALLOWED_HOSTS = ['bpgl.pl', 'www.bpgl.pl', 'ec2-54-93-54-71.eu-central-1.compute.amazonaws.com', '127.0.0.1', 'localhost', '54.93.54.71', 'strzepcz.ssd-linuxpl.com']
 
 # Application definition

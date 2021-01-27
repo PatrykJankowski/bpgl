@@ -684,3 +684,7 @@ body.high-contrast {
 .high-contrast #katalogi a:hover figure {
     border: 1px solid #000;
 }
+
+.high-contrast .post > div:first-child:hover {
+    max-height: 200px;
+}

@@ -60,7 +60,7 @@ a:hover, a:focus {
     height: 0;
 }
 
-#nav-top a, #contrast {
+#nav-top > div > a, #contrast {
     float: right;
     position: absolute;
     right: 0;
@@ -73,29 +73,51 @@ a:hover, a:focus {
 }
 
 #nav-top a > img, #nav-top a > svg, #contrast svg {
+    display: block;
     height: 40px;
     padding: 6px;
 }
 
-#nav-top a:first-child {
-    right: 231px;
-}
-
-#nav-top a:nth-child(2) {
+#nav-top > div > a:last-of-type {
     right: 84px;
 }
 
-#nav-top a:first-child {
+#nav-top > div > a:nth-last-of-type(2) {
     right: 40px;
+}
+
+#nav-top > div > div:nth-of-type(2) {
+    left: 160px;
+}
+
+@media (max-width:767px) {
+    #nav-top > div > div:nth-of-type(2) {
+        display: none;
+    }
 }
 
 #nav-top .container {
     position: relative;
 }
 
-#nav-top.test a, #nav-top.test #contrast {
+#nav-top.test a, #nav-top.test #contrast, #nav-top.test .contact {
     top: -40px;
     transition: all 0.2s linear;
+}
+
+#nav-top .contact {
+    display: inline-flex;
+    height: 40px;
+    align-items: center;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    transition: all 0.2s linear;
+}
+
+#nav-top .contact a {
+    margin-left: 5px;
+    color: #F17E01;
 }
 
 nav {
@@ -441,7 +463,6 @@ h3 a {
     margin: auto;
 }
 
-
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > li > a:hover {
     background-color: #fff;
     color: #F17E01;
@@ -644,7 +665,7 @@ footer span {
     color: #fff;
 }
 
-.high-contrast body {
+body.high-contrast {
     color: #000;
 }
 
@@ -654,6 +675,10 @@ footer span {
 
 .high-contrast .link {
     color: #fff;
+}
+
+.high-contrast .biblioteka .link {
+    color: #000;
 }
 
 .high-contrast #katalogi a:hover figure {

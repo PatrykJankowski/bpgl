@@ -21,7 +21,7 @@
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' class='' style="width: 100%" />
                                 </div>
-                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
+                                <p class="date">{{ post.category }} | <time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|date:"d.m.Y"|lower }}</time></p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden; text-align: center">
                                     {% if post.category.slug == 'aktualnosci' %}
@@ -32,7 +32,7 @@
                                         <img src='{% static 'img/komunikaty.png' %}' class='' style="height: 200px; max-width: 100%; padding: 50px" />
                                     {% endif %}
                                 </div>
-                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
+                                <p class="date">{{ post.category }} | <time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|date:"d.m.Y"|lower }}</time></p>
                             {% endif %}
 
                         <div class="text">
@@ -53,15 +53,17 @@
 
           </div><!--/span-->
 <ul class="pagination"></ul>
-          <script src="http://listjs.com/assets/javascripts/list.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
-<script>
-    var newsList = new List('wpisy', {
-  valueNames: ['post'],
-  page: 12,
-  plugins: [ ListPagination({}) ]
-});
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+
+<script>
+    $(function () {
+        var newsList = new List('wpisy', {
+            valueNames: ['post'],
+            page: 12,
+            pagination: true
+        });
+    })
 </script>
 
 </div>

@@ -26,7 +26,7 @@
                                 <img src='{{ post.image.url }}' class='img-responsive' />
                             {% endif %}
                             <h3><a href="{{ post.get_absolute_url }}">{{ post.title }}</a><br> | {{ post.category }}</h3>
-                            <div class="date">{{ post.published|timesince }}</div>
+                            <div class="date"><time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|timesince }}</time></div>
                             <p>{{ post.text|safe|linebreaksbr|truncatechars:120 }}</p>
                             <p><a href="{{ post.get_absolute_url }}" class="btn btn-primary" role="button">View</a></p>
                           </div>

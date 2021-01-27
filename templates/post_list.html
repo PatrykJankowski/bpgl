@@ -6,14 +6,13 @@
     <script>
 
     $( document ).ready(function() {
-    console.log( "ready!" );
 
 
     // Add scrollspy to <body>
-$('body').scrollspy({target: ".navbar", offset: 80});
+    $('body').scrollspy({target: ".navbar", offset: 80});
 
-// Add smooth scrolling on all links inside the navbar
-$("#navbar a").on('click', function(event) {
+    // Add smooth scrolling on all links inside the navbar
+    $("#navbar a").on('click', function(event) {
 
   // Make sure this.hash has a value before overriding default behavior
   if (this.hash !== "") {
@@ -75,6 +74,7 @@ $("#navbar a").on('click', function(event) {
         </div>{% endcomment %}
       </div>
     </div>
+
 
 </header>
 
@@ -156,9 +156,9 @@ $("#navbar a").on('click', function(event) {
 
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' alt="Obraz dla aktualności" class='' style="width: 100%" />
+                                <img width="300" src='{{ thumb.url }}' alt="Obraz dla aktualności"/>
                                 </div>
-                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
+                                <p class="date">{{ post.category }} | <time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|date:"d.m.Y"|lower }}</time></p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden; text-align: center">
                                     {% if post.category.slug == 'aktualnosci' %}
@@ -169,7 +169,7 @@ $("#navbar a").on('click', function(event) {
                                         <img src='{% static 'img/komunikaty.png' %}' alt="Ikona - komunikaty" class='' style="height: 200px; padding: 15px" />
                                     {% endif %}
                                 </div>
-                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
+                                <p class="date">{{ post.category }} | <time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|date:"d.m.Y"|lower }}</time></p>
                             {% endif %}
 
 
@@ -187,9 +187,11 @@ $("#navbar a").on('click', function(event) {
 
                       </li>
             {% endfor %}
-</ul>
+        </ul>
+
               <a href="/wpisy/?kategoria=aktualnosci" title="Zobacz wszystkie aktualności, projekty, wydarzenia"><h3 class="all">Zobacz wszystkie &rarr;</h3></a>
-          <ul class="pagination"></ul>
+
+              <ul class="pagination"></ul>
 
 
             </div><!--/span-->
@@ -203,7 +205,7 @@ $("#navbar a").on('click', function(event) {
 
               <!--  <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6" style="float: right; height: 430px; background: red;">ghjgh</div> -->
 
-<ul class="list">
+        <ul class="list">
               {% for post in books %}
                       <li class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
                       <div class="post">
@@ -213,7 +215,7 @@ $("#navbar a").on('click', function(event) {
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{{ thumb.url }}' alt="Okładka książki" class='' style="width: 100%" /></div>
-                                <p class="date">{{ post.category }} | {{ post.published|date:"d.m.Y"|lower }}</p>
+                                <p class="date">{{ post.category }} | <time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|date:"d.m.Y"|lower }}</time></p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden;">
                                 <img src='{% static 'img/aktualnosci.png' %}' alt="Okładka książki" class='' style="width: 100%" /></div>
@@ -235,26 +237,46 @@ $("#navbar a").on('click', function(event) {
                       </li>
             {% endfor %}
 
-</ul>
+    </ul>
+
     <a href="/wpisy/?kategoria=ksiazki" title="Zobacz wszystkie nowości książki"><h3 class="all">Zobacz wszystkie &rarr;</h3></a>
-          <ul class="pagination"></ul>
-<script src="http://listjs.com/assets/javascripts/list.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.pagination.js/0.1.1/list.pagination.min.js"></script>
-<script>
-    var newsList = new List('aktualnosci', {
-  valueNames: ['post'],
-  page: 4,
-  plugins: [ ListPagination({}) ]
-});
-  var booksList = new List('ksiazki', {
-  valueNames: ['post'],
-  page: 4,
-  plugins: [ ListPagination({}) ]
-});
 
-</script>
+    <ul class="pagination"></ul>
 
-            </div><!--/span-->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+    <script>
+        var options = {
+            valueNames: [ 'post' ],
+            page: 4,
+            pagination: true
+        };
+
+        var newsList = new List('ksiazki', options);
+
+        var options = {
+            valueNames: [ 'post' ],
+            page: 4,
+            pagination: true
+        };
+
+        var newsList = new List('aktualnosci', options);
+
+        {% comment %}
+          var newsList = new List('aktualnosci', {
+          valueNames: ['post'],
+          page: 4,
+          pagination: true
+        });
+          var booksList = new List('ksiazki', {
+          valueNames: ['post'],
+          page: 4,
+          pagination: true
+        });
+        {% endcomment %}
+
+    </script>
+
+</div><!--/span-->
 
 </section>
 
@@ -273,12 +295,12 @@ $("#navbar a").on('click', function(event) {
                           {% load thumbnail %}
                           {% thumbnail post.image 500x500 upscale as thumb %}
                                 <div class="pull-left" style="overflow-y: hidden;">
-                                    <a href="{{ thumb.url }}" data-lightbox="o-bibliotece"><img src='{{ thumb.url }}' alt="biblioteka" class='' style="width: 100%" /></a></div>
-
+                                    <img src='{{ thumb.url }}' alt="biblioteka" style="width: 100%" />
+                                </div>
 
                         <div class="text">
                             {% if post.image %}
-                                <p style="text-align: justify">{{ post.text|safe|truncatechars:520 }}</p>
+                                <div style="text-align: justify">{{ post.text|safe|truncatechars:520 }}</div>
                             {% else %}
                                 <hr>
                                 <p style="text-align: justify">{{ post.text|safe }}</p>
@@ -293,8 +315,6 @@ $("#navbar a").on('click', function(event) {
                       </div>
             {% endif %}
             {% endfor %}
-
-
 
 
             </div><!--/span-->
@@ -334,7 +354,7 @@ $("#navbar a").on('click', function(event) {
              <img class="center-block" src="{% static 'img/program_rozwoju_czytelnictwa.jpg' %}" alt="Program Rozwoju Czytelnictwa" />
         </div>
         <div class="col-md-2">
-             <img class="center-block" src="{% static 'img/fundacja_orange.jpg' %}" alt="Fundacja Orange"/>
+             <img class="center-block" src="{% static 'img/karta.jpg' %}" alt="Karta do kultury"/>
         </div>
         <div class="col-md-2">
              <a href="https://www.pitax.pl" title="PITax.pl - łatwe podatki" target="_blank"><img class="center-block" src="{% static 'img/pitax.jpg' %}" alt="PITax.pl - łatwe podatki"/></a>

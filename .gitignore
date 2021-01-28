@@ -1,11 +1,5 @@
 .idea/
 .idea/workspace.xml
-.biblioteka/settings.py
-.biblioteka/__pycache__/
-\biblioteka\settings.py
-
-.idea\
-.idea\workspace.xml
-.biblioteka\settings.py
-.biblioteka\__pycache__\
-/biblioteka/settings.py
+biblioteka/settings.py
+biblioteka/__pycache__/
+media

@@ -15,13 +15,13 @@ Create virtualenv: `mkvirtualenv bpgl_env`
 
 Run env: `workon bpgl_env`
 
-##Database
+## Database
 
 Export: `pg_dump -Fc -v --host=host --username=prodname --dbname=prodname -f dump.sql`
 
 Import: `pg_restore -v --no-owner --host=host --port=port --username=devname --dbname=devname dump.sql`
 
-##Other info
+## Other info
 **Dev environement**: *dev* branch connected to dev database
 
 **Production environement**: *master* branch connected to production database

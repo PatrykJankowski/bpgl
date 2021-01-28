@@ -1,0 +1,16 @@
+Django==1.10.5
+django-cleanup==0.4.2
+django-photologue==3.6
+django-sortedm2m==3.0.2
+django-summernote==0.8.6
+easy-thumbnails==2.3
+ExifRead==2.3.2
+olefile==0.46
+packaging==16.8
+pathlib==1.0.1
+Pillow==4.0.0
+psycopg2==2.6.2
+pyparsing==2.4.7
+pytz==2016.10
+six==1.15.0
+sorl-thumbnail==12.3

@@ -81,11 +81,12 @@
 <script>
 window.onscroll = function() {onScroll()};
 function onScroll() {
-    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+    if ((document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) && ! $("body").hasClass("high-contrast")) {
         document.getElementById("nav-top").className = "test";
     } else {
         document.getElementById("nav-top").className = "";
     }
+
 }
 
 $("#contrast").on('click', function() {

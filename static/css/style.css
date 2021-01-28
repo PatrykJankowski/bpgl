@@ -570,6 +570,21 @@ h3 a {
     content: "";
     display: block;
 }
+
+@media (max-width:767px) {
+    .instance .row p {
+        padding: 0;
+    }
+
+    .instance .row a {
+        overflow-wrap: anywhere;
+    }
+}
+
+.container.gallery h2 {
+    margin: 30px 0 10px;
+}
+
 footer, .page-wrap:after {
     min-height: 220px;
 }

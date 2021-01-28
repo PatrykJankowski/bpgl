@@ -4,5 +4,5 @@ $(document).ready(function(){
     $("a[href='#ksiazki").prop('href', '/wpisy/?kategoria=ksiazki')
     $("a[href='#o_bibliotece").prop('href', '/o-bibliotece')
     //$("a[href='#galeria").prop('href', '/galeria')
-    $("a[href='#kontakt").prop('href', '/kontakt')
+    $("a[href='#kontakt").prop('href', '/#kontakt')
 });

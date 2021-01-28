@@ -59,7 +59,7 @@
               {% else %}
                 <div class="item">
               {% endif %}
-                <img src="{{image}}" alt="slider">
+                <img width="100%" src="{{image}}" alt="Slider - główny obrazek strony">
                 <div class="carousel-caption">
                 <!--  <h3>Heading</h3>  -->
                 </div>
@@ -214,7 +214,7 @@
                           {% thumbnail post.image 360x360 upscale as thumb %}
                             {% if post.image %}
                                 <div style="width: 100%; overflow-y: hidden;">
-                                <img src='{{ thumb.url }}' alt="Okładka książki" class='' style="width: 100%" /></div>
+                                <img width="300" src='{{ thumb.url }}' alt="Okładka książki" class='' style="width: 100%" /></div>
                                 <p class="date">{{ post.category }} | <time datetime="{{ post.published|date:"Y-m-d"|lower }}">{{ post.published|date:"d.m.Y"|lower }}</time></p>
                             {% else %}
                                 <div style="width: 100%; overflow-y: hidden;">

@@ -2,8 +2,7 @@ from django.db import models
 from django.utils.text import slugify
 from django.db.models.signals import pre_save
 from django.urls import reverse
-from sorl.thumbnail import ImageField
-from django.utils import timezone
+# from django.utils.encoding import python_2_unicode_compatible
 
 def upload_location(instance, filename):
     #filebase, extension = filename.split(".")
@@ -19,7 +18,7 @@ def upload_location(instance, filename):
     """
     return "%s/%s" %(new_id, filename)
 
-
+# @python_2_unicode_compatible
 class Post(models.Model):
     author = models.ForeignKey('auth.User', default=1)
     title = models.CharField(max_length=200)
@@ -32,6 +31,10 @@ class Post(models.Model):
     updated = models.DateTimeField(auto_now=True, auto_now_add=False)
     tag = models.ManyToManyField('posts.Tag')
     category = models.ForeignKey('posts.Category')
+
+    class Meta:
+        verbose_name = 'Post'
+        verbose_name_plural = 'Posty'
 
     #def publish(self):
      #   self.published = timezone.now()
@@ -51,16 +54,24 @@ class Slider(models.Model):
     slug = models.SlugField(unique=True)
     image = models.ImageField(upload_to='slider/')
 
+    class Meta:
+        verbose_name = 'Slider'
+        verbose_name_plural = 'Slider'
+
     def __str__(self):
         return self.slug
 
     def get_absolute_url(self):
         return reverse("posts::slider", kwargs={"slug": self.slug})
 
-
+# @python_2_unicode_compatible
 class Category(models.Model):
     title = models.CharField(max_length=120)
     slug = models.SlugField(unique=True)
+
+    class Meta:
+        verbose_name = 'Kategoria'
+        verbose_name_plural = 'Kategorie'
 
     def __str__(self):
         return self.title
@@ -68,10 +79,14 @@ class Category(models.Model):
     def get_absolute_url(self):
         return reverse("posts:category", kwargs={"slug": self.slug})
 
-
+# @python_2_unicode_compatible
 class Tag(models.Model):
     title = models.CharField(max_length=120)
     slug = models.SlugField(unique=True)
+
+    class Meta:
+        verbose_name = 'Tag'
+        verbose_name_plural = 'Tagi'
 
     def __str__(self):
         return self.title

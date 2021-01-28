@@ -27,6 +27,14 @@ Export: `pg_dump -Fc -v --host=host --username=prodname --dbname=prodname -f dum
 
 Import: `pg_restore -v --no-owner --host=host --port=port --username=devname --dbname=devname dump.sql`
 
+## uWSGI on hosting
+
+Start uWSGI: `uwsgi --http 127.0.0.1:8888 --chdir /home/strzepcz/biblioteka/ --wsgi-file biblioteka/wsgi.py --master --processes 1 --workers 1 --threads 1 --virtualenv /home/strzepcz/env --daemonize=/home/strzepcz/log.txt`
+
+Stop uWSGI: `pkill -9 -f wsgi`
+
+(list of processes: `ps aux`)
+
 ## Other info
 **Dev environement**: *dev* branch connected to dev database
 

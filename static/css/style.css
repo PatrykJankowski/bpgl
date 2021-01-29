@@ -323,6 +323,7 @@ li:nth-child(3) .link:hover {
 
 #wsparcie img {
     max-height: 54px;
+    max-width: 100%;
     margin: 20px auto;
 }
 

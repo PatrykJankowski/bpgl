@@ -46,8 +46,11 @@
 <div id="carousel-example-generic" class="carousel slide visible-lg visible-md" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+          {% for image in paths %}
+              {% if paths|length > 1%}
+                  <li data-target="#carousel-example-generic" data-slide-to="{{ forloop.counter0 }}" {% if forloop.counter0 == 0 %}class="active"{% endif %}></li>
+              {% endif %}
+          {% endfor %}
       </ol>
 
       <!-- Wrapper for slides -->
@@ -354,7 +357,7 @@
              <img class="center-block" src="{% static 'img/program_rozwoju_czytelnictwa.jpg' %}" alt="Program Rozwoju Czytelnictwa" />
         </div>
         <div class="col-md-2">
-             <img class="center-block" src="{% static 'img/karta.jpg' %}" alt="Karta do kultury"/>
+            <a href="http://www.wbpg.org.pl/tresc/metropolitalna-karta-do-kultury" title="Metropolitalna karta do kultury" target="_blank"><img class="center-block" src="{% static 'img/karta.jpg' %}" alt="Metropolitalna karta do kultury"/></a>
         </div>
         <div class="col-md-2">
              <a href="https://www.pitax.pl" title="PITax.pl - łatwe podatki" target="_blank"><img class="center-block" src="{% static 'img/pitax.jpg' %}" alt="PITax.pl - łatwe podatki"/></a>

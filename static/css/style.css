@@ -424,12 +424,6 @@ h3 a {
     border-color: #676767;
 }
 
-@media (max-width:767px) {
-    .pagination {
-        display: none;
-    }
-}
-
 .post > div:first-child {
     max-height: 200px;
 

@@ -79,11 +79,15 @@ a:hover, a:focus {
 }
 
 #nav-top > div > a:last-of-type {
-    right: 84px;
+    right: 40px;
 }
 
 #nav-top > div > a:nth-last-of-type(2) {
-    right: 40px;
+    right: 80px;
+}
+
+#nav-top > div > a:nth-last-of-type(3) {
+    right: 120px;
 }
 
 #nav-top > div > div:nth-of-type(2) {

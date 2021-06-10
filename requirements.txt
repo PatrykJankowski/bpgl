@@ -1,4 +1,4 @@
-Django==1.10.5
+Django==2.2.24
 django-cleanup==0.4.2
 django-photologue==3.6
 django-sortedm2m==3.0.2
